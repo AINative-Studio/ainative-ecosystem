@@ -1,0 +1,4289 @@
+# AI-Native Developer Tools Ecosystem
+# Seeded from AI-Native-Dev-Community/ai-native-dev-landscape (MIT License)
+# Attribution: https://github.com/AI-Native-Dev-Community/ai-native-dev-landscape
+#
+# Generated: 2026-04-07
+# Total tools: 368
+
+tools:
+- name: '2501'
+  slug: '2501'
+  website: https://2501.ai
+  description: 2501 is building AI Autonomous Agents optimized for shell intervention
+    in SRE, SysOps and Cybersecurity
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: A0
+  slug: a0
+  website: https://a0.dev/
+  description: Mobile Apps in minutes. Quickly prototype a React Native screen.
+  category: frontend
+  tags:
+  - Frontend & Mobile
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Agentfarm
+  slug: agentfarm
+  website: https://aide.dev/
+  description: 'PARALLEL AGENTS . Better than D*vin. SWE-Bench #1 Agent on your Codebase.
+    Formerly known as aide.'
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-04-14'
+- name: Agentless
+  slug: agentless
+  website: https://github.com/OpenAutoCoder/Agentless
+  description: 'Agentless is an agentless approach to automatically solve software
+    development problems. To solve each issue, Agentless follows a simple three phase
+    process: localization, repair, and patch validation.'
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: AgentOps
+  slug: agentops
+  website: https://www.agentops.ai/
+  description: Industry leading developer platform to test and debug AI agents. We
+    built the tools so you don't have to.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Agentuity
+  slug: agentuity
+  website: https://agentuity.com/
+  description: The cloud, built for AI agents. Deploy, run, and scale autonomous agents
+    on infrastructure designed for the future, not the past.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-06-06'
+- name: AI Commits
+  slug: ai-commits
+  website: https://github.com/Nutlope/aicommits
+  description: A CLI that writes your git commit messages for you with AI. Never write
+    a commit message again.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-17'
+- name: AIaC
+  slug: aiac
+  website: https://aiac.dev/
+  description: Artificial Intelligence Infrastructure-as-Code Generator.
+  category: infrastructure
+  tags:
+  - Infrastructure As Code
+  - DevOps
+  open_source: true
+  date_added: '2025-03-12'
+- name: Aiden
+  slug: aiden
+  website: https://opsverse.io/aiden/
+  description: 'World’s First DevOps Copilot: The Agentic Copilot that demystifies
+    your DevOps processes and empowers your team to focus on innovation — not operations.'
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-07-04'
+- name: Aider
+  slug: aider
+  website: https://www.aider.chat/
+  description: AI pair programming in your terminal.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Aider Desk
+  slug: aider-desk
+  website: https://github.com/hotovo/aider-desk
+  description: Supercharge your coding workflow with AiderDesk, a sleek desktop application
+    that brings the power of aider to your fingertips with a modern GUI. Leverage
+    AI to accelerate your coding tasks while enjoying seamless project management,
+    cost tracking, and IDE integration.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-04-02'
+- name: Aikido Security
+  slug: aikido-security
+  website: https://www.aikido.dev/
+  description: Aikido is the get-it-done security platform for developers. Aikido
+    centralizes all necessary code and cloud security scanners in one place. Created
+    by pragmatic engineers, we put open-source solutions and the developer experience
+    first in what we build and how we build it. We focus on finding wha...
+  category: security
+  tags:
+  - Verified
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-04-01'
+- name: AIM Security
+  slug: aim-security
+  website: https://www.aim.security/
+  description: 'Secure Your AI Transformation: Aim is the only AI platform to secure
+    and protect AI you use, build, and run everywhere.'
+  category: gateway
+  tags:
+  - Gateway
+  - AIE
+  open_source: false
+  date_added: '2025-07-04'
+- name: AIspec
+  slug: aispec
+  website: https://github.com/cbora/aispec
+  description: A specification language for AI-first development that shifts focus
+    from implementation to intent through structured solution space reduction. AISpec
+    implements the What-Boundaries-Success (WBS) framework as a prompting framework,
+    providing a practical system for intent engineering in AI applicat...
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Aix Coder
+  slug: aix-coder
+  website: https://www.aixcoder.com/en/
+  description: aiXcoder intelligent programming robo helps you develop efficiently
+    Enjoy programming fun.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-02'
+- name: Alex
+  slug: alex
+  website: https://alexcodes.app
+  description: The Most Powerful AI For Xcode.
+  category: frontend
+  tags:
+  - Frontend & Mobile
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Amazon Q Developer CLI
+  slug: amazon-q-developer-cli
+  website: https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line-installing.html
+  description: Amazon Q Developer CLI provides enhanced CLI agent capabilities within
+    the command line that is powered by Amazon Bedrock, using the power of Claude
+    3.7 Sonnet step-by-step reasoning. With Amazon Q for command line, you can engage
+    in natural language conversations, ask questions, and receive resp...
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Amazon Q Developer IDE plugin
+  slug: amazon-q-developer-ide-plugin
+  website: https://aws.amazon.com/q/developer/
+  description: 'The Amazon Q Developer IDE plugin helps developers build faster by
+    generating code suggestions and recommendations in near real time. Amazon Q Developer
+    agents can autonomously perform a range of tasks: implementing new features, creating
+    documentation, adding tests, and refactoring code. Beyond ...'
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Amp
+  slug: amp
+  website: https://ampcode.com/
+  description: Amp is an agentic coding tool built by Sourcegraph. It runs in VS Code
+    (and compatible forks like Cursor, Windsurf, and VSCodium) and as a command-line
+    tool. It’s also multiplayer — you can share threads and collaborate with your
+    team.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-05-23'
+- name: Anima
+  slug: anima
+  website: https://www.animaapp.com/
+  description: Turn your design into a live web app Generate, preview, and edit code
+    instantly.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: app.build
+  slug: appbuild
+  website: https://www.app.build/
+  description: An open-source AI agent that builds full-stack apps.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-06-05'
+- name: applied37
+  slug: applied37
+  website: https://www.a37.ai/
+  description: The R&P lab reimagining DevOps
+  category: sre
+  tags:
+  - Beta
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-05-23'
+- name: Ardor
+  slug: ardor
+  website: https://ardor.cloud
+  description: Stop juggling. Start building. We built Ardor. So you can build full-scale
+    solutions. And manage them from start to finish without having to struggle with
+    the complexities of modern AI software engineering one-by-one.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-05-09'
+- name: Arize
+  slug: arize
+  website: https://arize.com/
+  description: Unified Observability and Evaluation Platform for AI.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Arnica
+  slug: arnica
+  website: https://www.arnica.io/
+  description: Arnica's behavior-based platform for application security provides
+    users with the first comprehensive pipelineless application security approach
+    which, in real-time, identifies and prevents risks in your software by utilizing
+    concepts of ChatOps and Platform Engineering.\n\nThe platform commoditi...
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: Arrakis
+  slug: arrakis
+  website: https://github.com/abshkbh/arrakis
+  description: Arrakis provides a secure, fully customizable, and self-hosted solution
+    to spawn and manage Sandboxes for code execution and computer use. It has out-of-the
+    box support for backtracking via snapshot-and-restore.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: true
+  date_added: '2025-06-05'
+- name: Asciinema
+  slug: asciinema
+  website: https://asciinema.org/
+  description: Asciinema records your terminal sessions and shares them as interactive
+    webcasts.
+  category: requirements
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-08-13'
+- name: Ask Annie
+  slug: ask-annie
+  website: https://anyshift.io
+  description: Anyshift is an AI-SRE assistant that immediately responds to urgent
+    queries like "Why can't I access the RDS instance?" or "Why did my deployment
+    fail?" during incidents or day-to-day issues, enabling instant answers to critical
+    infrastructure questions and reducing DevOps interruptions. Built on...
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Ask Codi
+  slug: ask-codi
+  website: https://www.askcodi.com/
+  description: ShipBetterCode,Faster! Stop wrestling with documentation and debugging.
+    Start building what matter
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-02'
+- name: Async Code
+  slug: async-code
+  website: https://github.com/ObservedObserver/async-code
+  description: Use Claude Code / CodeX CLI to perform multiple tasks in parallel with
+    a Codex-style UI. A code agent task management system that provides parallel execution
+    of AI-powered coding tasks. Users can run multiple Claude Code agents simultaneously
+    through a Codex-style web interface, with support for ...
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Atuin Desktop
+  slug: atuin-desktop
+  website: https://blog.atuin.sh/atuin-desktop-runbooks-that-run/
+  description: Runbooks that Run. Atuin Desktop looks like a doc, but runs like your
+    terminal. Script blocks, embedded terminals, database clients and prometheus charts
+    - all in one place.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-04-25'
+- name: Augment Code
+  slug: augment-code
+  website: https://augmentcode.com/
+  description: Augment Code is the AI-powered coding platform built for production-grade
+    codebases. Secure + Zero-trust architecture - AI only sees code you explicitly
+    authorize + Proof-of-possession via SHA256 hashes makes unauthorized access mathematically
+    impossible + Complete tenant isolation for Enterprise...
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Auto Code Rover
+  slug: auto-code-rover
+  website: https://www.autocoderover.net/
+  description: AutoCodeRover is a technology we are building for enterprises and developers
+    to maintain reliable and performant software systems through autonomous program
+    improvement.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Base44
+  slug: base44
+  website: https://base44.com/
+  description: Turn your ideas into products, in minutes. The first all-in-one AI
+    platform to easily build fully functioning apps - without coding.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Baseten
+  slug: baseten
+  website: https://www.baseten.co/
+  description: Built for when performance, security, and reliability matter, wrapped
+    with a delightful developer experience.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Baz
+  slug: baz
+  website: https://baz.co/
+  description: Baz performs contextual AI code reviews—analyzing code changes, detecting
+    breaking API changes, enforcing consistency, and highlighting misaligned coding
+    patterns. Make every review faster, more accurate, and closely aligned with the
+    real-world impact of code changes. It groups complex changes in...
+  category: review
+  tags:
+  - Verified
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Bear Claude
+  slug: bear-claude
+  website: https://bearclaude.specstory.com/
+  description: Think first. Code right. A focused macOS tool for turning specs into
+    software—with Claude Code built in.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Bismuth
+  slug: bismuth
+  website: https://bismuth.sh/
+  description: Bismuth is an AI agent that tackles the crushing tech debt drowning
+    engineering teams everywhere. We've built an autonomous development solution that
+    seamlessly integrates with your existing workflow in under 5 minutes. We connect
+    to GitHub, Jira, and other tools you already use. Unlike other sol...
+  category: review
+  tags:
+  - Verified
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Bito
+  slug: bito
+  website: https://bito.ai/
+  description: Bito brings contextual awareness to each review, offering insights
+    just like a senior engineer. Supports GitHub cloud, GitHub Enterprise (self-hosted),
+    GitLab cloud, GitLab (self-hosted), and Bitbucket cloud. AzureDevOps coming soon.
+    Suggestions and code fixes at the line level and inline. Accept...
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-26'
+- name: Blitzy
+  slug: blitzy
+  website: https://blitzy.com/
+  description: 'Cooperate to Autonomously Develop your Software Products: 80% built
+    autonomously, final 20% codified for your engineering team. Works with existing
+    products — upload your codebase and autonomously add new features. System 2 AI
+    that thinks, builds, then validates your code'
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-05-23'
+- name: Bloop
+  slug: bloop
+  website: https://bloop.ai/
+  description: AI Powered Legacy Code Conversion That Produces Readable Java. Broadening
+    the modernisation paths available and helping to solve legacy code for the long
+    term.
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Bolt
+  slug: bolt
+  website: https://bolt.new
+  description: AI-powered code generation. Prompt, run, edit, and deploy full-stack
+    web apps.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Bolt.diy
+  slug: boltdiy
+  website: https://github.com/stackblitz-labs/bolt.diy
+  description: Welcome to bolt.diy, the official open source version of Bolt.new,
+    which allows you to choose the LLM that you use for each prompt! Currently, you
+    can use OpenAI, Anthropic, Ollama, OpenRouter, Gemini, LMStudio, Mistral, xAI,
+    HuggingFace, DeepSeek, or Groq models - and it is easily extended to us...
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Brain Grid
+  slug: brain-grid
+  website: https://www.braingrid.ai/
+  description: Build Features 100x Faster with Cursor. BrainGrid supercharges Cursor
+    refining requirements and detailing the implementation plan so it builds what
+    you need.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Brokk
+  slug: brokk
+  website: https://brokk.ai/
+  description: 'AI for Large Codebases: The first AI-native code platform that gives
+    large projects compiler-grade context, so LLMs stay useful even when your repo
+    spans millions of lines.'
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-05-23'
+- name: Browser Use
+  slug: browser-use
+  website: https://browser-use.com/
+  description: Enable AI to control your browser. We make websites accessible for
+    AI agents by extracting all interactive elements, so agents can focus on what
+    makes their beer taste better.
+  category: browser
+  tags:
+  - Browser
+  - AIE
+  open_source: false
+  date_added: '2025-03-24'
+- name: Browserbase
+  slug: browserbase
+  website: https://www.browserbase.com/
+  description: Browserbase is a platform for running headless browsers. If you’re
+    building automations that need to interact with websites, fill out forms, or replicate
+    users actions, Browserbase manages that infrastructure so you don’t have to maintain
+    your own fleet of headless browsers.
+  category: browser
+  tags:
+  - Browser
+  - AIE
+  open_source: false
+  date_added: '2025-03-24'
+- name: Builder
+  slug: builder
+  website: https://builder.io/
+  description: Take Ideas to Production in Seconds, Not Sprints. Accelerate your digital
+    teams with AI-powered design-to-code, visual editing, and enterprise CMS, all
+    in our Visual Development Platform.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Carrot
+  slug: carrot
+  website: https://github.com/talvinder/carrot-product-requirements-document-prd
+  description: 'Carrot: Simplifying and Enhancing PRD Creation'
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Cast Software
+  slug: cast-software
+  website: https://learn.castsoftware.com/ai-assisted-code-transformation
+  description: Making AI understand massive custom software systems CAST technology
+    can analyze 40 KLOC per minute, mapping the explicit and implicit interactions
+    between all elements, across all layers, into deterministic metadata of the entire
+    application.
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Catio
+  slug: catio
+  website: https://www.catio.tech/
+  description: Architect with AI expertise. Excel with your tech stack. Drive your
+    business. Achieve it all with your Copilot for Tech Architecture.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: CC Manager
+  slug: cc-manager
+  website: https://github.com/kbwo/ccmanager
+  description: CCManager is a TUI application for managing multiple AI coding assistant
+    sessions (Claude Code, Gemini CLI) across Git worktrees.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Chai
+  slug: chai
+  website: https://chai.new/
+  description: Chai — Prompt. Sip. Ship. Vibe code any AI agent. Chai turns prompts
+    into prod-ready agents.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-05-02'
+- name: Chat PRD
+  slug: chat-prd
+  website: https://chatprd.ai/
+  description: 'The #1 AI tool for product managers & their teams.Write great product
+    docs—fast, and use AI to become an elite PM. ChatPRD is a PM copilot that can
+    think faster than you can type. Let ChatPRD write your docs and get back to building.'
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Chef
+  slug: chef
+  website: https://chef.convex.dev/
+  description: 'A new AI agent that builds web apps. You may have tried a few of those
+    before. Chef enables you to build new kinds of apps not possible with other tools:
+    multiplayer games, social messaging platforms, and even AI-powered agentic apps.'
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-06-01'
+- name: Chordio
+  slug: chordio
+  website: https://chordio.com/
+  description: AI Copilot for UX design Chordio learns your product and best practices,
+    helping you define, design, and refine faster.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-24'
+- name: Ciroos
+  slug: ciroos
+  website: https://ciroos.ai/
+  description: Become an SRE Superhero! Reduce toil, investigate incidents faster,
+    and drive autonomous operations
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-06-05'
+- name: Claude Artifacts
+  slug: claude-artifacts
+  website: https://www.anthropic.com/news/artifacts
+  description: Every team can use Claude to create high-quality work products faster
+    than ever before. From code snippets and flowcharts to SVG graphics, websites,
+    and interactive dashboards, Artifacts help bring your ideas and projects to life.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Claude Code
+  slug: claude-code
+  website: https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview
+  description: Claude Code is an agentic coding tool that lives in your terminal,
+    understands your codebase, and helps you code faster through natural language
+    commands. By integrating directly with your development environment, Claude Code
+    streamlines your workflow without requiring additional servers or compl...
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Claude Code Agent Farm
+  slug: claude-code-agent-farm
+  website: https://github.com/Dicklesworthstone/claude_code_agent_farm
+  description: Orchestrate multiple Claude Code agents working in parallel to improve
+    your codebase through automated bug fixing or systematic best practices implementation
+  category: spec-driven
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Claude Code Crew
+  slug: claude-code-crew
+  website: https://github.com/to-na/claude-code-crew
+  description: A web-based interface for managing multiple Claude Code sessions across
+    Git worktrees.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Claude Code Flow
+  slug: claude-code-flow
+  website: https://github.com/ruvnet/claude-code-flow
+  description: Claude-Flow is the ultimate orchestration platform that revolutionizes
+    how you work with Claude Code. Coordinate multiple AI agents simultaneously, manage
+    complex workflows, and build sophisticated applications with AI-powered development.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Claude Code Router
+  slug: claude-code-router
+  website: https://www.anthropic.com/docs/agents-and-tools/claude-code/overview
+  description: Use Claude Code as the foundation for coding in your terminal with
+    natural-language commands.
+  category: requirements
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-08-13'
+- name: Claude Code Usage Monitor
+  slug: claude-code-usage-monitor
+  website: https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor
+  description: Real-time Claude Code usage monitor with predictions and warnings
+  category: spec-driven
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Claude Sonnet
+  slug: claude-sonnet
+  website: https://www.anthropic.com/claude/sonnet
+  description: Hybrid reasoning model, state-of-the-art coding skills, computer use,
+    and 200K context window.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Claude Squad
+  slug: claude-squad
+  website: https://smtg-ai.github.io/claude-squad/
+  description: Manage multiple AI agents like Claude Code, Codex, and Aider. 10x your
+    productivity
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-06-05'
+- name: Claude Task Master
+  slug: claude-task-master
+  website: https://github.com/eyaltoledano/claude-task-master
+  description: A task management system for AI-driven development with Claude, designed
+    to work seamlessly with Cursor AI.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: true
+  date_added: '2025-04-25'
+- name: Cleric
+  slug: cleric
+  website: https://cleric.ai/
+  description: Cleric is an AI SRE teammate that helps software engineering quickly
+    diagnose production alerts. It investigates like an experienced engineer, autonomously
+    executing commands using your existing tools (Datadog, Kubernetes, Grafana, etc)
+    to quickly surface evidence based findings. Cleric continuou...
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Cline
+  slug: cline
+  website: https://github.com/cline/cline
+  description: Meet Cline, an AI assistant that can use your CLI and Editor.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Cline Task Master
+  slug: cline-task-master
+  website: https://github.com/James-Cherished-Inc/AI-task-master
+  description: A CLI that turns your Project's Documentation into an autonomous local
+    task management and project implementation system.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: true
+  date_added: '2025-04-17'
+- name: Clio
+  slug: clio
+  website: https://github.com/gptscript-ai/clio
+  description: Clio is an AI-powered copilot designed to help you with DevOps-related
+    tasks using CLI programs. It leverages OpenAI's capabilities to provide intelligent
+    assistance directly from your command line.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: true
+  date_added: '2025-03-12'
+- name: Clone UI
+  slug: clone-ui
+  website: https://cloneui.org/
+  description: Clone UI Designs Directly into Code. Screenshots and URLs are immediately
+    converted into code components.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: true
+  date_added: '2025-04-02'
+- name: Cloud Architect AI
+  slug: cloud-architect-ai
+  website: https://github.com/Siddhant-K-code/cloud-architect-ai
+  description: Cloud Architect AI transforms how developers and architects design
+    cloud infrastructure by leveraging AI to generate architecture diagrams and infrastructure-as-code
+    from natural language requirements. Simply describe what you need, and the AI
+    will propose multiple architecture options with cost ...
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: true
+  date_added: '2025-03-26'
+- name: Cloudgeni
+  slug: cloudgeni
+  website: https://www.cloudgeni.ai
+  description: Cloudgeni is an AI-native policy engine for IaC that understands the
+    context of your cloud infrastructure. It detects risky configurations and generates
+    smart fix PRs—aligned with your naming conventions, modules, and architecture—so
+    teams can move fast without breaking compliance or security. Bu...
+  category: compliance
+  tags:
+  - Verified
+  - Compliance
+  - DevSecOps
+  open_source: false
+  date_added: '2025-05-02'
+- name: Code
+  slug: code
+  website: https://github.com/gridaco/code
+  description: Convert your Figma, Sketch and Adobe XD design to Flutter, React, Vue
+    and more. As simple as % designto react https://www.figma.com/files/XXX -o mypage.tsx
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Code Gate
+  slug: code-gate
+  website: https://github.com/stacklok/codegate
+  description: CodeGate is an agent designed to make AI applications, coding assistants
+    and agentic frameworks, safer and easier to consume and manage. It provides a
+    centralized, abstracted environment for managing prompts, model provider configurations,
+    model muxing, and more. Additionally, CodeGate offers sec...
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: true
+  date_added: '2025-03-12'
+- name: Code T5
+  slug: code-t5
+  website: https://github.com/salesforce/CodeT5
+  description: 'Official research release for CodeT5 and CodeT5+ models for Code Understanding
+    and Generation from Salesforce Research, which are introduced by the following
+    papers:'
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: true
+  date_added: '2025-04-02'
+- name: CodeAnt AI
+  slug: codeant-ai
+  website: https://www.codeant.ai/
+  description: 'AI Code Review Platform: - Understands your entire codebase and provides
+    one-click fixes for code quality & security issues. - Supports GitHub, BitBucket,
+    GitLab(Cloud & Self-Hosted), Azure DevOps(Cloud & Self-Hosted) - Supports all
+    languages, integrates with IDEs and CI/CD tools(Jenkins, etc).'
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-01'
+- name: Codeapt
+  slug: codeapt
+  website: https://codapt.ai/
+  description: High accuracy code generation for TypeScript, JavaScript, and Python.
+    Codapt works across your codebase to understand and implement your requests. Each
+    request can explore your entire codebase and modify dozens of files without intervention.
+  category: ide
+  tags:
+  - Beta
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-17'
+- name: Codebuff
+  slug: codebuff
+  website: https://www.codebuff.com/
+  description: Simple. Fast. Powerful. Codebuff works in your terminal.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-03-29'
+- name: Codecept
+  slug: codecept
+  website: https://codecept.io/ai/
+  description: CodeceptJS ‐ supercharged. End 2 End Testing. First AI-powered testing
+    framework 🪄
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-17'
+- name: Codeflash
+  slug: codeflash
+  website: https://www.codeflash.ai/
+  description: Codeflash uses AI to automatically find the most performant version
+    of your Python code through benchmarking—while verifying it's correct.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: CodeGuide
+  slug: codeguide
+  website: https://www.codeguide.dev/
+  description: Your AI Companion To Help You Code Anything Code Guide creates detailed
+    Documentation for your AI Coding Projects.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: CodeRabbit
+  slug: coderabbit
+  website: https://www.coderabbit.ai/
+  description: Cut Code Review Time & Bugs in Half Supercharge your entire team with
+    AI-driven contextual feedback. Supports all languages.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: CodeRAG-Bench
+  slug: coderag-bench
+  website: https://code-rag-bench.github.io/
+  description: Many programs are challenging for language models (LMs) to generate
+    using their parametric knowledge alone, yet most works generate programs solely
+    based on problem descriptions. Given the success of retrieval-augmented generation
+    in many text-oriented tasks, providing external resources such as ...
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-03-12'
+- name: CodeSage
+  slug: codesage
+  website: https://code-representation-learning.github.io/codesage-v2.html
+  description: CodeSage embedding models generate representations that can measure
+    the semantic relatedness of source code snippets. CodeSage-V2 outperforms OpenAI
+    text-embedding-3, text-embedding-ada-002, and Voyage-Code-002 on various code
+    retrieval tasks.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: true
+  date_added: '2025-03-12'
+- name: Codestral
+  slug: codestral
+  website: https://mistral.ai/news/codestral
+  description: Codestral is an open-weight generative AI model explicitly designed
+    for code generation tasks. It helps developers write and interact with code through
+    a shared instruction and completion API endpoint. As it masters code and English,
+    it can be used to design advanced AI applications for software ...
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Codex Agents
+  slug: codex-agents
+  website: https://chatgpt.com/codex
+  description: A cloud-based software engineering agent that answers codebase questions,
+    executes code, and drafts pull requests.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-05-23'
+- name: Codex CLI
+  slug: codex-cli
+  website: https://github.com/openai/codex
+  description: OpenAI Codex CLI. Lightweight coding agent that runs in your terminal.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-04-17'
+- name: CodeYam
+  slug: codeyam
+  website: https://codeyam.com/
+  description: Software simulator that accelerates software teams.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: CoIR
+  slug: coir
+  website: https://github.com/CoIR-team/coir
+  description: CoIR (Code Information Retrieval) benchmark, is designed to evaluate
+    code retrieval capabilities. CoIR includes 10 curated code datasets, covering
+    8 retrieval tasks across 7 domains. In total, it encompasses two million documents.
+    It also provides a common and easy Python framework, installable v...
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-03-12'
+- name: Conductor
+  slug: conductor
+  website: https://conductor.build/
+  description: Run a bunch of Claude Codes in parallel. Each Claude gets an isolated
+    workspace. See who's working, see who's stuck, and what's changed.
+  category: spec-driven
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Container use
+  slug: container-use
+  website: https://github.com/dagger/container-use
+  description: Container Use lets each of your coding agents have their own containerized
+    environment. Go from babysitting one agent at a time to enabling multiple agents
+    to work safely and independently with your preferred stack.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Continue
+  slug: continue
+  website: https://continue.dev/
+  description: Create, share, and use custom AI code assistants with our open-source
+    IDE extensions and hub of models, rules, prompts, docs, and other building blocks.
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Copycoder
+  slug: copycoder
+  website: https://copycoder.ai/
+  description: Built for the next generation of AI coders. Upload images of full applications,
+    UI mockups, or custom designs and use our generated prompts to build your apps
+    faster.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Corgea
+  slug: corgea
+  website: https://corgea.com
+  description: Corgea helps developers ship code quickly without compromising security.
+    By combining advanced LLMs and deep code analysis, Corgea deeply understands your
+    codebase, detecting and automatically fixing previously undetectable vulnerabilities
+    like business logic flaws, broken authentication, and API...
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-26'
+- name: CreateMVP
+  slug: createmvp
+  website: https://createmvps.app/
+  description: Create MVPs with AI in seconds. The world's first open-source, AI-powered
+    PRD (Product Requirement Document), Technical Specs, and Flowcharts creator designed
+    to bridge the gap between your vision and functional code
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: true
+  date_added: '2025-05-09'
+- name: Crowdbotics
+  slug: crowdbotics
+  website: https://crowdbotics.com/
+  description: AI-Supercharged Modernization . Transform legacy applications through
+    an AI-powered, requirements-driven approach — speeding up delivery and reducing
+    risk.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Crystal
+  slug: crystal
+  website: https://github.com/stravu/crystal
+  description: Crystal is an Electron desktop application that lets you run, inspect,
+    and test multiple Claude Code instances simultaneously using git worktrees. Crystal
+    is an independent project created by Stravu. Stravu is the way AI-first teams
+    collaborate.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Cursor
+  slug: cursor
+  website: https://www.cursor.com/
+  description: The AI Code Editor. Built to make you extraordinarily productive, Cursor
+    is the best way to code with AI.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Cursor Directory
+  slug: cursor-directory
+  website: https://cursor.directory/
+  description: The home for Cursor enthusiasts where you can explore and generate
+    rules, browse MCPs, post and follow the latest news on the board, learn, connect,
+    and discover jobs all in one place.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Cursor Rules
+  slug: cursor-rules
+  website: https://dotcursorrules.com/
+  description: Cursor Rules to customize AI behavior, streamline the development and
+    tailor code generation, suggestions and queries to your framework and language.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Cursor Tools
+  slug: cursor-tools
+  website: https://github.com/eastlondoner/cursor-tools
+  description: Give Cursor Agent an AI team and advanced skills.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Dagger
+  slug: dagger
+  website: https://dagger.io/
+  description: Build your modern software factory. Define software delivery workflows
+    and dev environments with reusable components — including LLMs — and run them
+    anywhere. Built by the creators of Docker.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-06-06'
+- name: Dalton
+  slug: dalton
+  website: https://www.getdalton.com/
+  description: 'Self-Improving Websites: Dalton runs experiments 10x faster, learns
+    what works, and improves your website 24/7. Better results, zero extra effort.'
+  category: nocode
+  tags:
+  - Beta
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-04-09'
+- name: Data Button
+  slug: data-button
+  website: https://databutton.com/
+  description: Databutton's agent is the perfect AI developer for non-techies. You
+    talk about your app and needs – Databutton's reasoning agent learns, plans, and
+    executes on big tasks. Our core users are small business owners and non-technical
+    founders. Databutton's agent is fully web based and comes with an o...
+  category: nocode
+  tags:
+  - Verified
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: DataDog Bits AI
+  slug: datadog-bits-ai
+  website: https://docs.datadoghq.com/bits_ai/
+  description: Bits AI is a platform-wide copilot that helps you identify and remediate
+    issues in your applications and infrastructure. You can query Bits AI in the Datadog
+    web app, the Datadog mobile app, and in Slack.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Datadog LLM Observability
+  slug: datadog-llm-observability
+  website: https://www.datadoghq.com/product/llm-observability/
+  description: Datadog LLM Observability provides end-to-end tracing of LLM chains
+    with visibility into input-output, errors, token usage, and latency at each step,
+    along with robust output quality and security evaluations. By seamlessly correlating
+    LLM traces with APM and utilizing cluster visualization to ide...
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-04-07'
+- name: DataDog Watchdog
+  slug: datadog-watchdog
+  website: https://www.datadoghq.com/product/platform/watchdog/
+  description: Watchdog is Datadog’s AI engine, providing you with automated alerts,
+    insights, and root cause analyses that draw from observability data across the
+    entire Datadog platform. Watchdog continuously monitors your infrastructure and
+    calls attention to the signals that matter most, helping you to dete...
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Daytona
+  slug: daytona
+  website: https://www.daytona.io/
+  description: Daytona is a Secure and Elastic Infrastructure for Running AI-Generated
+    Code.
+  category: sandbox
+  tags:
+  - Verified
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: DeepSeek Coder
+  slug: deepseek-coder
+  website: https://deepseekcoder.github.io/
+  description: DeepSeek Coder comprises a series of code language models trained from
+    scratch on both 87% code and 13% natural language in English and Chinese, with
+    each model pre-trained on 2T tokens. We provide various sizes of the code model,
+    ranging from 1B to 33B versions. Each model is pre-trained on repo...
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Deepset
+  slug: deepset
+  website: https://www.deepset.ai/
+  description: LLM orchestration framework & platform for mission critical LLM apps.
+  category: infrastructure
+  tags:
+  - Verified
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-03-26'
+- name: Delibr
+  slug: delibr
+  website: https://delibr.com/
+  description: PRD Copilot for product managers. Go from idea and feedback to a crisp
+    document linked to Jira tickets with the help of a generative AI assistant.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-08-12'
+- name: Design2Code
+  slug: design2code
+  website: https://github.com/NoviScl/Design2Code
+  description: 'Converting visual design (screenshot) into code implementation.Design2Code
+    is maintained by the SALT lab from Stanford NLP. It includes two benchmark datasets:
+    The Design2Code benchmark dataset for the task of converting visual design (screenshot)
+    into code implementation, which consists of 484 r...'
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Devcontainer
+  slug: devcontainer
+  website: https://devcontainer.ai/
+  description: ''
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-07-04'
+- name: DevDocs
+  slug: devdocs
+  website: https://devdocs.io/
+  description: DevDocs combines multiple API documentations in a fast, organized,
+    and searchable interface.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Devin
+  slug: devin
+  website: https://devin.ai/
+  description: Devin is a collaborative AI teammate. Built to help ambitious engineering
+    teams achieve more.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Devoxx Genie
+  slug: devoxx-genie
+  website: https://github.com/devoxx/DevoxxGenieIDEAPlugin
+  description: Devoxx Genie is a fully Java-based LLM Code Assistant plugin for IntelliJ
+    IDEA, designed to integrate with local LLM providers
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-05-30'
+- name: DevStral
+  slug: devstral
+  website: https://mistral.ai/news/devstral
+  description: Devstral is built under a collaboration between Mistral AI and All
+    Hands AI 🙌, and outperforms all open-source models on SWE-Bench Verified by a
+    large margin. We release Devstral under the Apache 2.0 license.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: true
+  date_added: '2025-05-23'
+- name: Diff Blue
+  slug: diff-blue
+  website: https://www.diffblue.com/
+  description: '#1 AI Agent for unit testing complex Java code at scale. Diffblue
+    Cover is an enterprise-grade solution for automating the generation and management
+    of unit tests rapidly and reliably in IntelliJ and CI pipelines.'
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-17'
+- name: Doctave
+  slug: doctave
+  website: https://doctave.com/
+  description: Documentation site generator with AI content creation.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Docuopia
+  slug: docuopia
+  website: https://docuopia.com/
+  description: Spend less time on docs. Let Docuopia AI craft product requirements,
+    help docs, and wikis in a few minutes. Start streamlining now.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-08-12'
+- name: Dosu
+  slug: dosu
+  website: https://dosu.dev/
+  description: Dosu documents while developers build, giving teams the complete, up-to-date
+    docs they’ve always wanted. With Dosu, documentation is automatic, not arduous.
+    Code changes and learnings from new conversations are instantly reflected back
+    into Dosu and relevant documentation. Dosu makes knowledge ac...
+  category: documentation
+  tags:
+  - Verified
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Driver
+  slug: driver
+  website: https://driver.ai/
+  description: AI-powered platform that automates technical documentation. Spend less
+    time understanding code and writing documentation and more time building extraordinary
+    things.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Drizz
+  slug: drizz
+  website: https://www.drizz.dev/
+  description: Vision AI-Powered Mobile App Testing Agent. Test real devices at scale.
+  category: requirements
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-08-13'
+- name: Dryrun Security
+  slug: dryrun-security
+  website: https://app.dryrun.security
+  description: DryRun Security delivers cutting-edge, contextual security analysis
+    for every pull request using our innovative CSA methodology. We prioritize risks
+    and surface the most critical issues, ensuring that both developers and security
+    teams get the clear, actionable insights they need. Our platform le...
+  category: security
+  tags:
+  - Verified
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: DSS
+  slug: dss
+  website: https://github.com/Dub1n/dss-benchmark
+  description: Benchmark tests designed to evaluate the effectiveness of DSS rules
+    in creating automatic, professional behavior in AI assistants such as cursor rules
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-07-04'
+- name: Durable
+  slug: durable
+  website: https://durable.ai/
+  description: From idea to production-ready software; autonomously. All without touching
+    any code.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: DX
+  slug: dx
+  website: https://www.getdx.com/
+  description: Software engineering intelligence platform that collects qualitative
+    and quantitative data from your engineers and tools to understand the impact of
+    various drivers, including GenAI impact, on developer productivity. Built by the
+    researchers behind DORA and SPACE framework.
+  category: observability
+  tags:
+  - Observability
+  - DevOps
+  open_source: false
+  date_added: '2025-05-23'
+- name: Dyad
+  slug: dyad
+  website: https://www.dyad.sh/
+  description: Dyad is an open-source, standalone AI tool that levels up your coding
+    skills and helps you build real-world software. It’s more than a code generator—it’s
+    a dedicated mentor and practical companion that runs locally, connects to your
+    codebase, and complements—not replaces—your IDE.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-09'
+- name: E2B
+  slug: e2b
+  website: https://e2b.dev/
+  description: Run AI generated code securely in your app.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Ellipsis
+  slug: ellipsis
+  website: https://www.ellipsis.dev/
+  description: AI Code Reviews & Bug Fixes. Ellipsis is an AI developer tool that
+    automatically reviews code and fixes bugs on pull requests.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Endorlabs
+  slug: endorlabs
+  website: https://www.endorlabs.com/
+  description: Endor Labs graphs your entire application—including AI models, proprietary
+    code, open source dependencies, containers, and CI/CD workflows—to deliver precise,
+    prioritized risk insights. By combining multiple AI agents, deep program analysis,
+    and rich security data, it surfaces and helps fix the m...
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: Engine
+  slug: engine
+  website: https://www.enginelabs.ai/
+  description: Engine is your remote AI software engineer. Engine works without supervision
+    to turn issues into pull requests.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-05-02'
+- name: Entelligence
+  slug: entelligence
+  website: https://www.entelligence.ai/pr
+  description: Cut Code Review Time in Half. Supercharge your entire team with AI-driven
+    code reviews. Ship quality code faster.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-17'
+- name: Fig4AI
+  slug: fig4ai
+  website: https://github.com/f/fig4ai
+  description: A CLI tool that uses AI to generate design rules and documentation
+    from your Figma files. It analyzes your Figma designs and automatically extracts
+    design tokens, components, and layout information into a structured format.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Figma.ai
+  slug: figmaai
+  website: https://figma.ai
+  description: Generate Beautiful UI Designs with AI Create designs in seconds not
+    hours or days Auto generate Figma Variables with Light + Dark Modes
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Fine
+  slug: fine
+  website: https://fine.dev
+  description: Fine is your AI full-stack engineer, handling everything from UI to
+    deployment.
+  category: prototyping
+  tags:
+  - Verified
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Firebase Studio
+  slug: firebase-studio
+  website: http://firebase.studio/
+  description: Firebase Studio accelerates your entire development lifecycle with
+    AI agents. Build backends, front ends, and mobile apps, all in one place.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-04'
+- name: Firecrawl
+  slug: firecrawl
+  website: https://www.firecrawl.dev
+  description: 'Turn websites into: LLM-ready data , Power your AI apps with clean
+    data crawled from any website. It''s also open source.'
+  category: browser
+  tags:
+  - Browser
+  - AIE
+  open_source: true
+  date_added: '2025-04-02'
+- name: FirstMate
+  slug: firstmate
+  website: https://firstmate.io/
+  description: 'Our mission is simple: Spread knowledge over your entire organisation
+    starting from the source of truth, your codebases. Critical knowledge is often
+    hidden in codebases, leading to inefficiencies and risks. FirstMate ensures business
+    continuity by: - Generating and keeping documentation up to dat...'
+  category: documentation
+  tags:
+  - Verified
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: FlutterFlow
+  slug: flutterflow
+  website: http://www.flutterflow.com
+  description: Build Better. Launch Faster. FlutterFlow helps you build high quality,
+    customized apps quickly
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-24'
+- name: Foam
+  slug: foam
+  website: https://foam.ai/
+  description: AI for Production Code Errors . Debug in seconds, not hours or days
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-06-05'
+- name: ForeverVM
+  slug: forevervm
+  website: https://forevervm.com/
+  description: The sessionless code interpreter. Securely run AI-generated code in
+    stateful sandboxes that run forever.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Framer
+  slug: framer
+  website: https://www.framer.com/ai/
+  description: AI-powered website builder with design components and code generation.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Frosty AI
+  slug: frosty-ai
+  website: https://www.gofrosty.ai/
+  description: Frosty AI is a multi-LLM routing and observability platform built for
+    AI-native teams. It enables seamless routing of prompts across providers like
+    OpenAI, Anthropic, Mistral, and more—without changing your application code. Frosty
+    lets teams configure routing based on performance or cost and pro...
+  category: gateway
+  tags:
+  - Gateway
+  - AIE
+  open_source: false
+  date_added: '2025-04-25'
+- name: Full Stack Roadmap
+  slug: full-stack-roadmap
+  website: https://www.fullstackroadmap.com/
+  description: Transform Your Ideas Into Full-Stack Apps Get AI-powered architecture
+    plans, documentation, and UI designs in minutes
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-08-12'
+- name: Functionize
+  slug: functionize
+  website: https://www.functionize.com/
+  description: Digital Workers for Test Automation. Real AI Test Automation.. Proven
+    AI Value & Benefit.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-17'
+- name: Galileo
+  slug: galileo
+  website: https://www.usegalileo.ai/
+  description: Ready to generate designs at lightning speed? Galileo generates beautiful
+    and functional interface designs tailored to your needs. Use both text and images
+    to get a design that isn't generic.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Gemini CLI
+  slug: gemini-cli
+  website: https://github.com/google-gemini/gemini-cli
+  description: Gemini CLI, a command-line AI workflow tool that connects to your tools,
+    understands your code and accelerates your workflows.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: GenAIScript
+  slug: genaiscript
+  website: https://microsoft.github.io/genaiscript/
+  description: Automatable GenAI using JavaScript.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-04-01'
+- name: GenSX
+  slug: gensx
+  website: https://www.gensx.com/
+  description: The anti-framework for agents and workflows. No magic. Write plain
+    TypeScript functions. GenSX takes care of infra, built-in observability, and all
+    of the APIs you need to build long running agents that stream from start to end.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-06-06'
+- name: Gepetto
+  slug: gepetto
+  website: https://gepetto.sh/
+  description: Gepetto is a CLI Tools operator for automating QA/DevOps tasks. The
+    Operator controls its own browser or any other tool provided over MCP to autonomously
+    execute tasks. Reports are generated in junit-XML for easy CI/CD integration.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-25'
+- name: Git Ingest
+  slug: git-ingest
+  website: https://gitingest.com/
+  description: Turn any Git repository into a simple text digest of its codebase.
+    This is useful for feeding a codebase into any LLM.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: GitAuto
+  slug: gitauto
+  website: https://gitauto.ai/
+  description: Have GitAuto write unit test cases.. GitAuto writes code and opens
+    pull requests from GitHub & Jira issues for automated test case creation.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-05-23'
+- name: GitBook AI
+  slug: gitbook-ai
+  website: https://www.gitbook.com/
+  description: Documentation platform with AI assistance.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: GitDiagram
+  slug: gitdiagram
+  website: https://github.gg/
+  description: Turn any GitHub repository into an interactive diagram for visualization.
+    It's a great way to see the overall system design!
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-03-26'
+- name: GitHub Copilot
+  slug: github-copilot
+  website: https://github.com/features/copilot
+  description: The AI editor for everyone. The OG IDE extension that first brought
+    us completions.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: GitHub Copilot Workspace
+  slug: github-copilot-workspace
+  website: https://githubnext.com/projects/copilot-workspace
+  description: An agentic dev environment, designed for everyday tasks.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Github GG
+  slug: github-gg
+  website: https://github.gg/
+  description: A powerful tool for analyzing GitHub repositories and providing valuable
+    insights about code quality, dependencies, and more.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: Github Spark
+  slug: github-spark
+  website: https://githubnext.com/projects/github-spark/
+  description: GitHub Spark helps you transform your ideas into code—visual editing,
+    design-to-code, and enterprise CMS.
+  category: requirements
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-08-13'
+- name: Githubme
+  slug: githubme
+  website: https://github.me.uk/
+  description: 'GitHubMe: Instantly Understand Any Codebase GitHubMe is an AI-powered
+    tool that helps you instantly explore and understand any GitHub repository. Instead
+    of manually navigating complex codebases, GitHubMe provides a structured overview,
+    revealing key files, dependencies, and technologies at a gla...'
+  category: documentation
+  tags:
+  - Verified
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-27'
+- name: GitLab Duo
+  slug: gitlab-duo
+  website: https://about.gitlab.com/gitlab-duo/
+  description: Ship more secure software faster with AI throughout the entire software
+    development lifecycle.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-26'
+- name: Gitpod SDK
+  slug: gitpod-sdk
+  website: https://www.gitpod.io/blog/introducing-gitpod-sdk
+  description: 'Gitpod SDK: infrastructure for software engineering agents. The infrastructure
+    building blocks for orchestrating and building software engineering (SWE) agents
+    at scale.'
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Glama
+  slug: glama
+  website: https://glama.ai/mcp/servers
+  description: Open-Source MCP servers. Production-ready and experimental MCP servers
+    that extend AI capabilities through file access, database connections, API integrations,
+    and other contextual services.
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: GLM-4.5
+  slug: glm-45
+  website: https://github.com/zai-org/GLM-4.5
+  description: An open-source large language model designed for intelligent agents
+    by Z.ai.
+  category: requirements
+  tags:
+  - Model
+  - AIE
+  open_source: true
+  date_added: '2025-08-13'
+- name: Google Gemini
+  slug: google-gemini
+  website: https://ai.google.dev/gemini-api/docs/models
+  description: 'Pro: most powerful multi-model thinking model. Flash: low latency.'
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Google Gemma
+  slug: google-gemma
+  website: https://ai.google.dev/gemma
+  description: A collection of lightweight, state-of-the-art open models built from
+    the same research and technology that powers our Gemini 2.0 models.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: GPT Migrate
+  slug: gpt-migrate
+  website: https://github.com/joshpxyne/gpt-migrate
+  description: Easily migrate your codebase from one framework or language to another.
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: GPT-Pilot
+  slug: gpt-pilot
+  website: https://github.com/Pythagora-io/gpt-pilot
+  description: GPT Pilot is the core technology for the Pythagora VS Code extension
+    that aims to provide the first real AI developer companion. Not just an autocomplete
+    or a helper for PR messages but rather a real AI developer that can write full
+    features, debug them, talk to you about issues, ask for review, ...
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-04-17'
+- name: GPTScript
+  slug: gptscript
+  website: https://docs.gptscript.ai/
+  description: GPTScript is a framework that allows Large Language Models (LLMs) to
+    operate and interact with various systems.
+  category: infrastructure
+  tags:
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Graphite
+  slug: graphite
+  website: https://graphite.dev
+  description: The AI developer productivity platform Graphite helps teams on GitHub
+    ship higher quality software, faster.
+  category: review
+  tags:
+  - Beta
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Greptile
+  slug: greptile
+  website: https://www.greptile.com/
+  description: The AI Code Review Bot Greptile reviews your PRs with full context
+    of your codebase. 3X more bugs caught, 4X faster merges
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Gru
+  slug: gru
+  website: https://gru.ai
+  description: Test Gru delivers enterprise-grade unit test automation services, empowering
+    you to achieve superior test coverage. Harness the expertise of AI engineers to
+    boost your team's testing efficiency while reducing costs and ensuring top-notch
+    quality.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Gumloop
+  slug: gumloop
+  website: https://www.gumloop.com/
+  description: Automate any workflow with AI. No coding required.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-05-02'
+- name: Hawkeye
+  slug: hawkeye
+  website: https://neubird.ai/
+  description: I'm Hawkeye, your AI SRE Agent. Ask me anything!
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: Heal
+  slug: heal
+  website: https://www.heal.dev/
+  description: Lightning fast QA testing powered by AI Heal's agent writes and maintains
+    tests. Our team refines them. You focus on shipping. 80% coverage in weeks. No
+    flakes. No maintenance.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Hercules
+  slug: hercules
+  website: https://hercules.app/
+  description: Build stunning apps, websites, and prototypes in minutes.
+  category: requirements
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-08-13'
+- name: hippycampus
+  slug: hippycampus
+  website: https://github.com/cromwellian/hippycampus
+  description: A LangChain-based CLI and MCP server that supports dynamic loading
+    of OpenAPI specifications and integration with Langflow.
+  category: mcp
+  tags:
+  - Verified
+  - MCP
+  - AIE
+  open_source: true
+  date_added: '2025-04-10'
+- name: HolmesGPT
+  slug: holmesgpt
+  website: https://github.com/robusta-dev/holmesgpt
+  description: Your 24/7 On-Call AI Agent - Solve Alerts Faster with Automatic Correlations,
+    Investigations, and More.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: true
+  date_added: '2025-03-27'
+- name: HumanEval
+  slug: humaneval
+  website: https://github.com/openai/human-eval
+  description: This is an evaluation harness for the HumanEval problem solving dataset
+    described in the paper "Evaluating Large Language Models Trained on Code".
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-03-12'
+- name: HyperTest
+  slug: hypertest
+  website: https://www.hypertest.co
+  description: AI Test Engineer for Modern Backends.
+  category: testing
+  tags:
+  - Verified
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-27'
+- name: iGent Maestro
+  slug: igent-maestro
+  website: https://igent.ai/
+  description: Maestro represents a new paradigm in software engineering. An intelligent
+    agent, harmonizing all aspects of the development process with efficiency and
+    precision. Maestro propels you towards your goals, bridging strategy and execution
+    autonomously, all while keeping you in control.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-05-02'
+- name: Incident.io
+  slug: incidentio
+  website: https://incident.io
+  description: The all-in-one AI platform for on-call, incident response, and status
+    pages—built for fast-moving teams.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-24'
+- name: Infra.new
+  slug: infranew
+  website: https://infra.new
+  description: 'Automate Terraform in your cloud : Infra.new monitors your Terraform
+    stacks and provides AI assistance with migrations, cost optimization, and maintenance
+    via GitOps + your existing CI/CD'
+  category: infrastructure
+  tags:
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-07-04'
+- name: Infraware
+  slug: infraware
+  website: https://www.infraware.dev/
+  description: The simplest way to design and deploy your cloud infrastructure. Talk
+    to your infrastructure like a developer. No code. No complexity.
+  category: infrastructure
+  tags:
+  - Beta
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-05-30'
+- name: JetBrains AI Assistant
+  slug: jetbrains-ai-assistant
+  website: https://www.jetbrains.com/ai/
+  description: AI coding assistant integrated across all JetBrains IDEs.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Jo
+  slug: jo
+  website: https://jo.floto.ai
+  description: 'Jo is your always-on AI user-researcher. Paste any URL—whether it’s
+    a live site, Figma file, prototype, or side project—and Jo instantly hands you
+    a shareable research link. Send that link to users and Jo runs the conversation
+    for you: asking smart follow-ups, probing for the “why,” and distillin...'
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-05-23'
+- name: Jolt
+  slug: jolt
+  website: https://www.usejolt.ai/
+  description: AI for 100K+ Line Codebases
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-25'
+- name: Jules
+  slug: jules
+  website: https://jules.google/
+  description: Jules is an asynchronous, agentic coding assistant that integrates
+    directly with your existing repositories. It clones your codebase into a secure
+    Google Cloud virtual machine (VM), understands the full context of your project,
+    and performs tasks.
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-05-23'
+- name: Keak
+  slug: keak
+  website: https://keak.com/
+  description: Higher conversionrates driven by AI. The first AI agent that continuously
+    improves your website.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Kiro
+  slug: kiro
+  website: https://kiro.dev/
+  description: The AI IDE for prototype to production. Kiro helps you do your best
+    work by bringing structure to AI coding with spec-driven development.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Komment
+  slug: komment
+  website: https://komment.ai/
+  description: Ship faster with self-healing wikis. Unlock rich insights about any
+    codebase in minutes. Speed up onboarding. Break knowledge silos. Boost team productivity.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Kubiya
+  slug: kubiya
+  website: https://docs.kubiya.ai/docs
+  description: With Kubiya, the Agent Platform handles every dependency and every
+    layer, seamlessly integrating with your environments, infrastructure, and tools.
+    Build and manage secure, scalable, and predictable AI agents at the speed of development.
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Kusho
+  slug: kusho
+  website: https://kusho.ai/
+  description: Still writing tests in 2025? KushoAI transforms your inputs into a
+    comprehensive ready-to-run test suite. Test both web interfaces and backend APIs
+    in minutes with our AI Agents.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-17'
+- name: Langbase
+  slug: langbase
+  website: https://langbase.com/
+  description: The most powerful serverless platform for building AI agents with memory.
+    Build, scale, and evaluate AI agents with semantic memory (RAG) and world-class
+    developer experience.
+  category: sandbox
+  tags:
+  - Verified
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Langfuse
+  slug: langfuse
+  website: https://langfuse.com/
+  description: Open Source LLM Engineering Platform Traces, evals, prompt management
+    and metrics to debug and improve your LLM application.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: true
+  date_added: '2025-03-24'
+- name: Latitude
+  slug: latitude
+  website: https://latitude.so/
+  description: Level up your prompts Latitude helps you refine your prompts with data
+    to deliver reliable AI products with confidence
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Leap
+  slug: leap
+  website: https://leap.new/
+  description: AI that helps you build scalable backends. Leap helps you build and
+    deploy apps to your cloud on AWS or GCP, with your code under your control.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-06-06'
+- name: Leapter
+  slug: leapter
+  website: https://www.leapter.com/
+  description: Empowering Everyone to Build Reliable Software—Simply. Direct AI to
+    create, validate, and deploy your ideas with confidence.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-07-04'
+- name: Lightrun
+  slug: lightrun
+  website: https://lightrun.com/
+  description: An end-to-end, autonomous remediation platform designed to troubleshoot
+    incidents and application-level issues in real time.From the moment a ticket is
+    created, the system intelligently traces the issue through the software development
+    lifecycle (SDLC), automatically analyzing telemetry and conte...
+  category: observability
+  tags:
+  - Observability
+  - DevOps
+  open_source: false
+  date_added: '2025-04-25'
+- name: Limo
+  slug: limo
+  website: https://www.limo.dev/
+  description: DevOps Simplified. Through Conversation. Deploy, monitor, and scale
+    cloud apps using natural language. Let Limo handle your infrastructure while you
+    focus on building.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-06-05'
+- name: Llama
+  slug: llama
+  website: https://www.llama.com/
+  description: The open-source AI models you can fine-tune, distill and deploy anywhere.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: LLMText
+  slug: llmtext
+  website: https://llmtext.com/
+  description: LLM Text is a service that provides optimized context extraction for
+    various types of web content. Whether you're dealing with GitHub repositories,
+    npm packages, YouTube videos, or any other web page, LLM Text has got you covered!
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-04-25'
+- name: Local Forge
+  slug: local-forge
+  website: https://github.com/rockbite/localforge
+  description: Runs in a local web UI and autonomously works on your files alongside
+    you.
+  category: spec-driven
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Locofy
+  slug: locofy
+  website: https://www.locofy.ai/convert/design-to-code
+  description: Turn your designs into developer-friendly frontend <code> for mobile
+    apps and web. Works with Figma and Adobe XD.
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Logic Star
+  slug: logic-star
+  website: https://logicstar.ai/
+  description: AI Agent for Application Maintenance.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Lovable
+  slug: lovable
+  website: https://lovable.dev/
+  description: AI-powered platform that enables users of any skill level to create
+    full-stack web applications without requiring coding expertise by simply describing
+    what they want in plain English. Instead of hiring developers, users can generate
+    web apps or websites instantly.
+  category: prototyping
+  tags:
+  - Verified
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Luna AI
+  slug: luna-ai
+  website: https://withluna.ai/
+  description: Your AI Program Manager that gives Engineering and Product teams visibility
+    into goals, roadmap cost and ROI, initiative progress, and risks throughout the
+    product lifecycle.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-04-01'
+- name: Mabl
+  slug: mabl
+  website: https://www.mabl.com/
+  description: Low-code test automation with AI healing capabilities.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Mage
+  slug: mage
+  website: https://usemage.ai/
+  description: Generate your full-stack web app in Wasp, React, Node.js and Prisma.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: true
+  date_added: '2025-03-12'
+- name: Magic
+  slug: magic
+  website: https://magic.dev/
+  description: building frontier code models to automate software engineering and
+    research.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Magnet
+  slug: magnet
+  website: https://www.magnet.run/
+  description: Magnet lets you build quality software using AI agents. Run multiple
+    Claude Code agents in parallel sandboxes, and supercharge the tools you already
+    use.
+  category: spec-driven
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Marblism
+  slug: marblism
+  website: https://dev.marblism.com/
+  description: Welcome to Marblism - the platform to generate, edit and host your
+    fullstack application in minutes ✨ Drop any idea into it and you get a fully functional
+    back-end and front-end as an output. Perfect for CTOs, indie hackers, freelancers,
+    agencies, or developer with a project – with Marblism, you ...
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: MarsX
+  slug: marsx
+  website: https://marsx.dev/
+  description: Mars is a devtool that lets you start building using No-Code and zero
+    coding skills as long as you stay within the scope of existing micro apps. For
+    example, you can 100% No-Code an Uber-like marketplace.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: mcp.run
+  slug: mcprun
+  website: https://mcp.run/
+  description: mcp.run is a registry of AI tools that can be developed by anyone and
+    used inside any AI application. These tools give AI models and applications the
+    capability to actually understand and affect the world in real-time. Once you
+    create an mcp.run account, you can install and configure tools from t...
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: MCP.so
+  slug: mcpso
+  website: https://mcp.so/
+  description: Find Awesome MCP Servers and Clients.The largest collection of MCP
+    Servers.
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Mechanical Orchard
+  slug: mechanical-orchard
+  website: https://www.mechanical-orchard.com/
+  description: Legacy modernization technology company that applies AI-enhanced tools
+    and disciplined methods to continuously modernize, operate, and innovate on critical
+    business applications, especially those on mainframes.
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Memex
+  slug: memex
+  website: https://memex.tech/
+  description: Build anything in any stack, with just natural language, on your desktop.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-26'
+- name: Meticulous
+  slug: meticulous
+  website: https://www.meticulous.ai/
+  description: Meticulous monitors your daily interactions with your application as
+    you develop it.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Mintlify
+  slug: mintlify
+  website: https://mintlify.com/
+  description: Meet the next generation of documentation. AI-native, beautiful out-of-the-box,
+    and built for developers.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Mistral Code
+  slug: mistral-code
+  website: https://mistral.ai/news/mistral-code
+  description: 'Our goal with Mistral Code is simple: deliver best-in-class coding
+    models to enterprise developers, enabling everything from instant completions
+    to multi-step refactoring—through an integrated platform deployable in the cloud,
+    on reserved capacity, or air-gapped on-prem GPUs.'
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-06-05'
+- name: Modal
+  slug: modal
+  website: https://modal.com/
+  description: Serve custom AI models at scale Add one line of code to run any function
+    in the cloud. Get instant autoscaling for ML inference, data jobs, and more.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Morph
+  slug: morph
+  website: https://codemorph.dev/
+  description: 'Automated Code Migrations at Scale: Empower one developer to scale
+    across hundreds of repos. Morph automates code migrations, security patches, and
+    dependency updates—keeping your entire codebase current and compliant.'
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: false
+  date_added: '2025-07-04'
+- name: Morphllm
+  slug: morphllm
+  website: https://morphllm.com/
+  description: The world-class way to apply code edits - FAST.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-06-05'
+- name: Muta Hunter
+  slug: muta-hunter
+  website: https://github.com/codeintegrity-ai/mutahunter
+  description: Open-Source Language Agnostic LLM-based Mutation Testing.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-17'
+- name: Natoma
+  slug: natoma
+  website: https://mcp.natoma.id/
+  description: Natoma's Hosted MCP Platform gives you a fast, easy, and intuitive
+    way to connect AI agents and LLMs with your applications and data. Our platform
+    removes the burden of complex API integrations, version management, and tedious
+    server configurations. In a few short clicks, you can start using our ...
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Nexos
+  slug: nexos
+  website: https://nexos.ai/
+  description: An AI orchestration platform for the agentic era Introducing nexos.ai
+    — a powerful model gateway that delivers game-changing AI solutions. With advanced
+    automation and intelligent decision making, nexos.ai helps simplify operations,
+    boost productivity, and accelerate business growth.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-24'
+- name: Nuanced
+  slug: nuanced
+  website: https://www.nuanced.dev/
+  description: Combines static analysis with AI to give coding tools deeper understanding
+    of code behavior. Provides a semantic understanding layer for AI coding tools
+    to help them make better decisions by providing deeper context.
+  category: ide
+  tags:
+  - Beta
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-06'
+- name: Oakie
+  slug: oakie
+  website: https://www.oakie.ai/
+  description: Oakie's platform empowers you to build custom AI agents that acts on
+    the most critical business tasks, as you would, ensuring human expertise remains
+    at the center of every step.
+  category: nocode
+  tags:
+  - Verified
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-26'
+- name: Observable Notebooks 2.0
+  slug: observable-notebooks-20
+  website: https://github.com/observablehq/notebook-kit
+  description: 'Observable Notebooks 2.0: collaborative JavaScript notebooks for data
+    visualization.'
+  category: requirements
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-08-13'
+- name: Octomind
+  slug: octomind
+  website: https://www.octomind.dev/
+  description: Find bugs before your customers do. Give us your URL and we automatically
+    discover, generate and run your Playwright end-to-end tests.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Okareo
+  slug: okareo
+  website: https://okareo.com/
+  description: 'Real-time Behavioral Alerts : Real-time error tracking catches issues
+    fast, while intelligent judges prevent hallucinations and keep outputs accurate
+    and reliable — even when moving between models.'
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-05-23'
+- name: Ona
+  slug: ona
+  website: https://ona.com/
+  description: Ona is the privacy-first software engineering agent specifically designed
+    for enterprise. Ona operates entirely within your network, tightly integrated
+    into your existing enterprise infrastructure. The code Ona writes never leaves
+    your premises.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-06-05'
+- name: Open Commit
+  slug: open-commit
+  website: https://github.com/di-sukharev/opencommit
+  description: Auto-generate meaningful commits in a second.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-04-17'
+- name: Open Hands
+  slug: open-hands
+  website: https://www.all-hands.dev/
+  description: 'OpenHands (formerly OpenDevin), a platform for software development
+    agents powered by AI. OpenHands agents can do anything a human developer can:
+    modify code, run commands, browse the web, call APIs, and yes—even copy code snippets
+    from StackOverflow.'
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Open Rewrite
+  slug: open-rewrite
+  website: https://docs.openrewrite.org/
+  description: OpenRewrite is an open-source automated refactoring ecosystem for source
+    code, enabling developers to effectively eliminate technical debt within their
+    repositories. It consists of an auto-refactoring engine that runs prepackaged,
+    open-source refactoring recipes for common framework migrations, s...
+  category: migration
+  tags:
+  - Verified
+  - Migration
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: OpenAI Canvas
+  slug: openai-canvas
+  website: https://openai.com/index/introducing-canvas/
+  description: Canvas is a new interface for working with ChatGPT on writing and coding
+    projects that go beyond simple chat. Canvas opens in a separate window, allowing
+    you and ChatGPT to collaborate on a project.
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: OpenAI Codex
+  slug: openai-codex
+  website: https://openai.com/index/openai-codex/
+  description: We've created an improved version of OpenAI Codex, our AI system that
+    translates natural language to code, and we are releasing it through our API in
+    private beta starting today.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: OpenAI Models
+  slug: openai-models
+  website: https://platform.openai.com/docs/models
+  description: Foundational models that support code, from reasoning models to raw
+    inteligence.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Opencode
+  slug: opencode
+  website: https://github.com/opencode-ai/opencode
+  description: OpenCode is a Go-based CLI application that brings AI assistance to
+    your terminal. It provides a TUI (Terminal User Interface) for interacting with
+    various AI models to help with coding tasks, debugging, and more.
+  category: cli
+  tags:
+  - Beta
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-04-25'
+- name: Orq
+  slug: orq
+  website: https://orq.ai/
+  description: 'Orq.ai is the #1 AI engineering platform for product teams. Control
+    GenAI at scale. No blind spots – no vibe checks.'
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-04-05'
+- name: Otto8
+  slug: otto8
+  website: https://otto8.ai/
+  description: ChatGPT for DevOps. Don`t ask AI, do with AI.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Overmind
+  slug: overmind
+  website: https://overmind.tech/
+  description: Overmind provides predictive root cause analysis for cloud changes.
+    With no changes to your Terraform code or workflow, Overmind automatically discovers
+    the dependencies from your infrastructure in real-time, and uncovers risks that
+    could cause production outages. Overmind is used in production t...
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: PagerDuty
+  slug: pagerduty
+  website: https://www.pagerduty.com
+  description: Manage mission-critical tasks smarter and faster with generative AI
+    and AI agents for critical operations work.
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-27'
+- name: Par
+  slug: par
+  website: https://github.com/coplane/par
+  description: 'Par: Parallel Worktree & Session Manager: Easily manage parallel development
+    workflows with isolated Git worktrees and tmux sessions'
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Parasail
+  slug: parasail
+  website: https://www.parasail.io/
+  description: Smarter, faster, more cost-effectiveway to run AI. AI teams from startups
+    to enterprises use Parasail to get infrastructure out of the way and bring products
+    to market faster.
+  category: gateway
+  tags:
+  - Gateway
+  - AIE
+  open_source: false
+  date_added: '2025-05-23'
+- name: Pear AI
+  slug: pear-ai
+  website: https://trypear.ai/
+  description: The Curated AI Code Editor. Supercharge your development with an up-to-date,
+    curated inventory of the best AI tools, natively integrated for effortless AI-powered
+    coding. Always open source.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Phoebe
+  slug: phoebe
+  website: https://phoebe.ai/
+  description: 'Troubleshoot faster: agentic search for your tech stack. Investigate
+    errors, incidents, and more.'
+  category: sre
+  tags:
+  - Beta
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: Phoenix
+  slug: phoenix
+  website: https://phoenix.new/
+  description: 'The Remote AI Runtime for Phoenix: Describe your app, and watch it
+    take shape. Prototype quickly, experiment freely, and share instantly.'
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-07-04'
+- name: Pixee
+  slug: pixee
+  website: http://pixee.ai/
+  description: 'Continuously ship high quality code: Pixeebot goes with the flow.
+    As your engineers or AI-copilots do their thing, Pixeebot monitors your repositories
+    and pull requests, providing high quality fixes instantly.'
+  category: security
+  tags:
+  - Verified
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-29'
+- name: Plandex
+  slug: plandex
+  website: https://plandex.ai/
+  description: Build real world software with AI.An open source, terminal-based AI
+    coding agent designed to handle large projects, large files, and large tasks.
+    Featuring a diff review sandbox, full auto mode, and smart context management
+    up to 2M tokens.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-05-30'
+- name: Plasmic
+  slug: plasmic
+  website: https://www.plasmic.app/
+  description: Visual builder for React applications with code export.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Poolside
+  slug: poolside
+  website: https://poolside.ai/
+  description: Poolside is building next generation AI for software engineering. We're
+    building foundation models, an API, and an Assistant to bring the power of generative
+    AI to your developers.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Port IO
+  slug: port-io
+  website: https://www.port.io
+  description: Port is an AI-native developer portal that offers AI agents and an
+    MCP server to build your software catalog, enable self-service actions, and connect
+    directly to your IDE for smooth workflows.
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-06-01'
+- name: Portia AI
+  slug: portia-ai
+  website: https://www.portialabs.ai/
+  description: Open source SDK to build predictable, controllable and authenticated
+    AI agents.
+  category: sandbox
+  tags:
+  - Verified
+  - Execution Sandbox
+  - AIE
+  open_source: true
+  date_added: '2025-03-27'
+- name: Potpie
+  slug: potpie
+  website: https://potpie.ai
+  description: AI Agents for Debugging Testing System Design OnboardingC ode review
+    DocumentationYour Codebase. Build custom agents using simple prompts that are
+    expert on your codebase to perform engineering tasks for you
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Product Monkey
+  slug: product-monkey
+  website: https://productmonkey.ai/
+  description: Convert product design and wireframe images to drafts of Product Requirements
+    Documents and Engineering Task Tickets in seconds.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Promptbook
+  slug: promptbook
+  website: https://www.ptbk.io/
+  description: t's a revolution of writing software in plain human language that is
+    understandable and executable by both humans and machines – and it's going to
+    change everything!
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: true
+  date_added: '2025-04-14'
+- name: Pulumi Copilot
+  slug: pulumi-copilot
+  website: https://www.pulumi.com/product/copilot/
+  description: Pulumi Copilot is an AI assistant that streamlines cloud infrastructure
+    management by combining large language models with semantic cloud understanding.
+    Available through both Pulumi Cloud console and CLI, it enables engineers to find
+    information and take action on cloud resources using a familia...
+  category: infrastructure
+  tags:
+  - Verified
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Pydantic Logfire
+  slug: pydantic-logfire
+  website: https://pydantic.dev/logfire
+  description: Future-proof your observability. Eliminate the need for multiple tools.
+    Logfire offers native AI integrations—from LLM API calls to agent frameworks—plus
+    comprehensive observability for any workload, AI or not.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-27'
+- name: Pythagora
+  slug: pythagora
+  website: https://www.pythagora.ai
+  description: Build. Debug. Deploy. All in one tool Prompt, run, edit and deploy
+    full-stack web apps.
+  category: ide
+  tags:
+  - Beta
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: QA Tech
+  slug: qa-tech
+  website: https://qa.tech
+  description: Ship faster with AI agents that create and run your QA tests Scale
+    your end-to-end testing without increasing headcount or maintaining a test suite.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: Qodo Command
+  slug: qodo-command
+  website: https://www.qodo.ai/products/qodo-command/
+  description: 'Agents in your terminal. Automations across your entire SDLC: Qodo
+    Command is a powerful command-line interface for building, running, and managing
+    AI agents'
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-07-04'
+- name: Qodo Gen
+  slug: qodo-gen
+  website: https://www.qodo.ai/products/qodo-gen/
+  description: 'Agentic AI for Writing, Testing, and Reviewing Code Modern software
+    development needs efficient, high-quality, and well-tested code. Qodo’s code integrity
+    platform integrates AI into development workflows to help teams write, test, and
+    review code faster and more reliably. Qodo Gen: Agentic Codin...'
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Qodo Merge
+  slug: qodo-merge
+  website: https://www.qodo.ai/products/qodo-merge/
+  description: 'Agentic AI for Writing, Testing, and Reviewing Code Modern software
+    development needs efficient, high-quality, and well-tested code. Qodo’s code integrity
+    platform integrates AI into development workflows to help teams write, test, and
+    review code faster and more reliably. Qodo Merge: AI-Powered ...'
+  category: review
+  tags:
+  - Verified
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Qwen3 Coder
+  slug: qwen3-coder
+  website: https://github.com/QwenLM/Qwen3-Coder
+  description: Qwen3-Coder is the code version of Qwen3, the large language model
+    series developed by Qwen team, Alibaba Cloud.
+  category: spec-driven
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-07-25'
+- name: Ranger
+  slug: ranger
+  website: https://www.ranger.net/
+  description: Fast, reliable QA testing Powered by AI, perfected by humans. Ranger
+    writes and maintains QA tests that find real bugs so you can keep moving forward.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-24'
+- name: ReadMe
+  slug: readme
+  website: https://readme.com/
+  description: API documentation with AI-powered suggestions.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Refact
+  slug: refact
+  website: https://refact.ai/
+  description: Open-source Autonomous AI Agent that handles engineering tasks end-to-end.
+    It deeply understands your codebase and integrates with your tools, databases,
+    and browsers to automate complex, multi-step tasks.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-03-30'
+- name: Remote code
+  slug: remote-code
+  website: https://remote-code.com/
+  description: Never let your vibe coding session end just because you left your desk.
+    Your AI coding companion follows you from the coffee shop to the couch.
+  category: spec-driven
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Replit
+  slug: replit
+  website: https://replit.com/
+  description: Replit turns your ideas into apps, fast. With Replit, anyone—technical
+    or non-technical—can build and deploy fully-functional, full-stack apps directly
+    from their browser, without any installation, setup, or configuration. Replit's
+    Agent and Assistant enable you to create entire applications from...
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Repomix
+  slug: repomix
+  website: https://github.com/yamadashy/repomix
+  description: Repomix (formerly Repopack) is a powerful tool that packs your entire
+    repository into a single, AI-friendly file. Perfect for when you need to feed
+    your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,
+    DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-04-25'
+- name: RepoPrompt
+  slug: repoprompt
+  website: https://repoprompt.com/
+  description: A macOS native app designed to remove all the friction involved in
+    iterating on your local files with the most powerful language models.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Reqi
+  slug: reqi
+  website: https://reqi.io/
+  description: An online requirements management tool for systems engineering to bring
+    your teams together in one simple platform. Built for project teams, systems engineers,
+    and asset owners.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Requesty
+  slug: requesty
+  website: https://requesty.ai/
+  description: Requesty is an LLM Gateway that functions as an intelligent middleware
+    for all your LLM needsIn less than 5 minutes, integrate with 200+ LLM providers
+    using\ a single API key, and get logging, telemetry, observability, prompt management,
+    security, unified billing, smart routing and more.
+  category: gateway
+  tags:
+  - Gateway
+  - AIE
+  open_source: false
+  date_added: '2025-05-02'
+- name: Resolve
+  slug: resolve
+  website: https://resolve.ai/
+  description: Your AI Production Engineer Handles all alerts, performs root cause
+    analysis, resolves incidents and makes on-call stress free.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-24'
+- name: Restack
+  slug: restack
+  website: https://www.restack.io/
+  description: Restack backend framework provides long-running workflows and infrastructure
+    for reliable & accurate AI agents.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Retool
+  slug: retool
+  website: https://retool.com/
+  description: The best way to build internal software. Seamlessly connect databases,
+    build with elegant components, and customize with code. Accelerate mundane tasks,
+    freeing up time for the work that matters most.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-05-09'
+- name: Riza
+  slug: riza
+  website: https://riza.io/
+  description: AI writes code. Riza runs it. Fast & API-first. Code starts running
+    in <10ms. No sandbox start-up or deploy needed.
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-04-01'
+- name: Roo-Code
+  slug: roo-code
+  website: https://github.com/RooVetGit/Roo-Code
+  description: 'Roo Code is an AI-powered autonomous coding agent that lives in your
+    editor. It can: - Communicate in natural language - Read and write files directly
+    in your workspace - Run terminal commands - Automate browser actions - Integrate
+    with any OpenAI-compatible or custom API/model - Adapt its “perso...'
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-04-17'
+- name: Rootly
+  slug: rootly
+  website: https://rootly.com
+  description: AI-powered on-call and incident response. Trusted by leading companies
+    like NVIDIA, Squarespace, Canva, Figma, and more.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-27'
+- name: Rork
+  slug: rork
+  website: https://rork.app/
+  description: Build any mobile app, fast. Rork builds complete, cross-platform mobile
+    apps using AI and React Native.
+  category: frontend
+  tags:
+  - Frontend & Mobile
+  - Code
+  open_source: false
+  date_added: '2025-03-29'
+- name: Ruler
+  slug: ruler
+  website: https://github.com/intellectronica/ruler
+  description: Managing instructions across multiple AI coding tools becomes complex
+    as your team grows. Different agents (GitHub Copilot, Claude, Cursor, Aider, etc.)
+    require their own configuration files
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Runloop
+  slug: runloop
+  website: https://www.runloop.ai/
+  description: AI Infrastructure for the Future of Software Engineering
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-06-06'
+- name: Runme
+  slug: runme
+  website: https://runme.dev/
+  description: '​Runme is an open-source tool that transforms Markdown documentation
+    into interactive, executable notebooks, enhancing DevOps workflows by allowing
+    users to run code snippets directly within their documentation. Interactive Execution:
+    Run commands and code blocks directly from Markdown files, fac...'
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Runner H
+  slug: runner-h
+  website: https://www.hcompany.ai/
+  description: Our flagship agent, Runner H, will be available in private beta on
+    our platform. It allows, through simple natural language commands, automatic design
+    of web automation pipelines, eliminating multi-step, tedious, manual work and
+    revolutionizing how developers and teams approach the likes of web t...
+  category: ide
+  tags:
+  - Beta
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: RunWhen
+  slug: runwhen
+  website: https://www.runwhen.com/
+  description: RunWhen streamlines repetitive operations tasks 100x faster than traditional
+    automation with AI responses for alerts, tickets, and chats.
+  category: sre
+  tags:
+  - Verified
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Safe Intelligence
+  slug: safe-intelligence
+  website: https://safeintelligence.ai/
+  description: Making AI safe, secure and resilient with automatic verification and
+    robustification
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-27'
+- name: Sailplane
+  slug: sailplane
+  website: https://sailplane.ai/
+  description: Hierarchical Planning AI Research Company.
+  category: sre
+  tags:
+  - Beta
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Sculptor
+  slug: sculptor
+  website: https://imbue.com/product/sculptor/
+  description: Sculptor is a coding agent environment that applies engineering discipline
+    to catch issues, write tests, and improve your code—all while you work in your
+    favorite editor.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-10'
+- name: Semgrep
+  slug: semgrep
+  website: https://semgrep.dev/
+  description: Meet Your New AI AppSec Engineer. Get all of the insights from static
+    analysis, and none of the noise.
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: SFR-Embedding-Code
+  slug: sfr-embedding-code
+  website: https://huggingface.co/Salesforce/SFR-Embedding-Code-2B_R
+  description: The Salesforce/SFR-Embedding-Code is a generalist embedding model family
+    for multilingual and multi-task code and Text retrieval. It demonstrates superior
+    performance compared to various open-source code embedding models across multiple
+    code retrieval tasks.
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-03-12'
+- name: sGPT
+  slug: sgpt
+  website: https://github.com/tbckr/sgpt
+  description: SGPT is a command-line tool that provides a conversational interface
+    to GPT models.
+  category: requirements
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-08-13'
+- name: Sift
+  slug: sift
+  website: https://runsift.com/
+  description: Upgrade your company's system monitoring in minutes The world's best
+    AI-first observability solution.
+  category: observability
+  tags:
+  - Observability
+  - DevOps
+  open_source: false
+  date_added: '2025-03-24'
+- name: Skyvern
+  slug: skyvern
+  website: https://www.skyvern.com/
+  description: Automate Browser-Based Workflows with AI Have mundane tasks on websites
+    you repeatedly interact with? We can help
+  category: browser
+  tags:
+  - Browser
+  - AIE
+  open_source: true
+  date_added: '2025-03-29'
+- name: Smithery
+  slug: smithery
+  website: https://smithery.ai/
+  description: Extend your language via Model Context Protocol providers.
+  category: mcp
+  tags:
+  - MCP
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Snyk DeepCode
+  slug: snyk-deepcode
+  website: https://snyk.io/solutions/secure-ai-generated-code/
+  description: Snyk secures AI transformation with Snyk’s trusted AI platform for
+    developing fast, and securing modern applications. Snyk employs advanced Symbolic
+    AI engines and GenAI LLMs to find and fix security vulnerabilities in code.
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Snyk Workflow
+  slug: snyk-workflow
+  website: https://snyk.io/platform/workflows/
+  description: Reimagined development needs redefined security Deploy application
+    security that’s fit for the rapidly changing world of AI.
+  category: security
+  tags:
+  - Vuln Scanning
+  - DevSecOps
+  open_source: false
+  date_added: '2025-06-06'
+- name: SonarQube AI Code Fix
+  slug: sonarqube-ai-code-fix
+  website: https://www.sonarqube.org/
+  description: Code quality and security with AI remediation.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Source AI
+  slug: source-ai
+  website: https://sourceai.dev/
+  description: A textarea that converts natural language to code. Trained GPT-3 on
+    high quality code in 40+ programming languages.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Sourcegraph
+  slug: sourcegraph
+  website: https://sourcegraph.com/
+  description: \
+  category: ide
+  tags:
+  - Verified
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Sourcery
+  slug: sourcery
+  website: https://sourcery.ai
+  description: Get code reviews anytime you want in GitHub, GitLab, or your favorite
+    IDE. Built to understand your full project and adaptable to your review styles,
+    Sourcery can review code in all modern languages.
+  category: review
+  tags:
+  - Verified
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-26'
+- name: Spec Coder
+  slug: spec-coder
+  website: https://github.com/qirolab/spec-coder-issues
+  description: You can also enjoy AI-driven chat support for instant coding assistance,
+    making your coding experience more efficient and enjoyable.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: true
+  date_added: '2025-03-12'
+- name: Specifai
+  slug: specifai
+  website: https://github.com/presidio-oss/specif-ai
+  description: Specifai is an AI-powered platform that transforms the project requirements
+    management. It combines AI technology with intuitive workflows to automate documentation,
+    generate and manage tasks - all while adapting to your team's specific needs.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-04-14'
+- name: Specmatic
+  slug: specmatic
+  website: https://specmatic.io/
+  description: 'Transform your API Specs into Executable Contracts with #NoCode in
+    Seconds. With Specmatic experience the power of Contract-Driven Development to
+    confidently develop and independently deploy your Microservices and Microfrontends
+    faster.'
+  category: spec-driven
+  tags:
+  - Verified
+  - Spec Driven
+  - Code
+  open_source: true
+  date_added: '2025-03-12'
+- name: SpecStory
+  slug: specstory
+  website: https://specstory.com/
+  description: Capture, search and learn from every AI coding journey. Transform your
+    AI interactions into a living spec. Accelerate your software composition workflow.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Splitmind
+  slug: splitmind
+  website: https://github.com/webdevtodayjason/splitmind
+  description: Enterprise-Grade Multi-Agent AI Development Platform
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Spring
+  slug: spring
+  website: https://spring.new/
+  description: Build Custom Apps in Minutes. Create tailor-made business applications
+    instantly with AI.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-06-06'
+- name: Spur
+  slug: spur
+  website: https://www.spurtest.com/
+  description: Your AI QA Engineer. Spur lets you test your website with Natural Language.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Squillo
+  slug: squillo
+  website: https://squillo.io/
+  description: 'Software-as-a-Utility: integrate anything, automate everything.'
+  category: spec-driven
+  tags:
+  - Verified
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: SRE AI
+  slug: sre-ai
+  website: https://sre.ai/
+  description: AI DevOps Agents‍ for Enterprise Teams.
+  category: sre
+  tags:
+  - Beta
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Stakpak
+  slug: stakpak
+  website: https://stakpak.dev/
+  description: Stakpak is a DevOps IDE and API with built-in AI capabilities that
+    helps developers quickly build, maintain and self-serve their software infrastructure.
+  category: infrastructure
+  tags:
+  - Verified
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Starcoder
+  slug: starcoder
+  website: https://huggingface.co/bigcode/starcoder
+  description: The StarCoder models are 15.5B parameter models trained on 80+ programming
+    languages from The Stack (v1.2), with opt-out requests excluded. The model uses
+    Multi Query Attention, a context window of 8192 tokens, and was trained using
+    the Fill-in-the-Middle objective on 1 trillion tokens.
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Stitch
+  slug: stitch
+  website: https://stitch.withgoogle.com/
+  description: AI for your UI . Write a few words, attach an image and watch your
+    UI come to life
+  category: frontend
+  tags:
+  - Frontend & Mobile
+  - Code
+  open_source: false
+  date_added: '2025-05-30'
+- name: Superface
+  slug: superface
+  website: https://superface.ai/
+  description: Integrate external apps using function calling with connectors that
+    deeply understand the underlying systems. We provide the UI, flow, and securely
+    manage API keys and access tokens. Works with all LLMs and agentic frameworks.
+  category: browser
+  tags:
+  - Browser
+  - AIE
+  open_source: false
+  date_added: '2025-04-01'
+- name: Supermaven
+  slug: supermaven
+  website: https://supermaven.com/
+  description: The fastest copilot. Supermaven lets you write code 2x faster with
+    AI.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-25'
+- name: Swark
+  slug: swark
+  website: https://github.com/swark-io/swark
+  description: Automate code diagram generation with LLMs.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-03-12'
+- name: SWE Bench
+  slug: swe-bench
+  website: https://www.swebench.com/
+  description: 'SWE Bench answers the question: Can Language Models Resolve Real-World
+    GitHub Issues?'
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Sweep
+  slug: sweep
+  website: https://sweep.dev/
+  description: Self-hosted coding assistant for JetBrains IDEs. Accelerate your JetBrains
+    developers with the latest in AI coding intelligence. No data ever leaves your
+    VPC.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Swimm
+  slug: swimm
+  website: https://swimm.io/
+  description: AI-powered docs generation and ongoing updates.
+  category: documentation
+  tags:
+  - Documentation
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Tabby
+  slug: tabby
+  website: https://tabbyml.com
+  description: Secure, flexible, and transparent AI coding.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-03-29'
+- name: Tabnine
+  slug: tabnine
+  website: https://www.tabnine.com/
+  description: Tabnine is the world’s most contextually aware AI software development
+    platform, helping mature engineering teams speed up and simplify their entire
+    development process.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Targetboard
+  slug: targetboard
+  website: https://www.targetboard.ai
+  description: TargetBoard is an AI-powered KPI management system that eliminates
+    the data hassle, saving managers hours every week. It seamlessly integrates with
+    all your systems, automatically aggregates and customizes KPIs, and provides real-time
+    insights—without relying on a data team. Stay ahead of targets...
+  category: observability
+  tags:
+  - Verified
+  - Observability
+  - DevOps
+  open_source: false
+  date_added: '2025-03-26'
+- name: Tempo
+  slug: tempo
+  website: https://tempolabs.ai/
+  description: Build React apps 10x Faster with AI.
+  category: frontend
+  tags:
+  - Frontend & Mobile
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Temporal
+  slug: temporal
+  website: https://temporal.io/
+  description: Temporal delivers an open-source Durable Execution platform that abstracts
+    away the complexity of building scalable, reliable distributed systems. It presents
+    a development abstraction that preserves complete application state so that in
+    the case of a host or software failure it can seamlessly mi...
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-06-06'
+- name: Terminal Bench
+  slug: terminal-bench
+  website: https://www.tbench.ai
+  description: 'A benchmark for ai agents in terminal environments: terminal-bench
+    is a collection of tasks and an evaluation harness to help agent makers quantify
+    their agents'' terminal mastery'
+  category: benchmarking
+  tags:
+  - Code Benchmark
+  - AIE
+  open_source: true
+  date_added: '2025-07-04'
+- name: Tern
+  slug: tern
+  website: https://tern.sh
+  description: Tern automates code migrations, cutting the effort required by 90%.
+    By combining deep search, AI-driven transformations, and small, reviewable PRs,
+    Tern finds every line of code to change, automates the fix, and guides you to
+    ship incrementally with minimal disruption.
+  category: migration
+  tags:
+  - Migration
+  - Code
+  open_source: false
+  date_added: '2025-03-24'
+- name: Terrachat
+  slug: terrachat
+  website: https://www.terrachat.io
+  description: Natural language infrastructure, compliance and deployment.
+  category: infrastructure
+  tags:
+  - Verified
+  - Infrastructure As Code
+  - DevOps
+  open_source: false
+  date_added: '2025-03-27'
+- name: Tessl
+  slug: tessl
+  website: https://tessl.io
+  description: You make the spec, AI codes & maintains. Tessl’s AI native development
+    platform delivers secure, high-quality, and auto-maintained code — all built to
+    your specs.
+  category: spec-driven
+  tags:
+  - Spec Driven
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Testdriver
+  slug: testdriver
+  website: https://testdriver.ai
+  description: 52% of developers say testing is their major blocker to release. Quickly
+    unblock your team with TestDriver's Computer-Use AI QA Agents.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: true
+  date_added: '2025-03-27'
+- name: Testim
+  slug: testim
+  website: https://www.testim.io/
+  description: AI-powered test automation tool.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: TestSigma
+  slug: testsigma
+  website: https://testsigma.com/
+  description: AI-driven no-code test automation platform.
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Theia
+  slug: theia
+  website: https://theia-ide.org/theia-ai/
+  description: Theia AI, an open framework that empowers tool vendors to seamlessly
+    integrate cutting-edge AI capabilities into their custom tools and IDEs
+  category: ide
+  tags:
+  - Beta
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-04-17'
+- name: Tooljet
+  slug: tooljet
+  website: https://www.tooljet.ai/
+  description: AI-Powered Apps - Built by AI. Transform your development workflow
+    using natural language. Build enterprise applications by simply describing what
+    you need.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-29'
+- name: Toto
+  slug: toto
+  website: https://huggingface.co/Datadog/Toto-Open-Base-1.0
+  description: Toto (Time Series Optimized Transformer for Observability) is a state-of-the-art
+    time-series foundation model designed for multi-variate time series forecasting,
+    emphasizing observability metrics. Toto efficiently handles high-dimensional,
+    sparse, and non-stationary data commonly encountered in o...
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-05-23'
+- name: Traceloop
+  slug: traceloop
+  website: https://www.traceloop.com/
+  description: The only way to monitor LLMs Know when your LLM app is hallucinating
+    or malfunctioning. Start deploying with confidence.
+  category: observability
+  tags:
+  - Observability
+  - AIE
+  open_source: false
+  date_added: '2025-03-29'
+- name: Trae
+  slug: trae
+  website: https://trae.ai/
+  description: Ship Faster with Trae. Trae is an adaptive AI IDE that transforms how
+    you work, collaborating with you to run faster.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Traversal
+  slug: traversal
+  website: https://traversal.com/
+  description: Untangle system failures AI-first site reliability trained on your
+    telemetry
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Tusk
+  slug: tusk
+  website: https://www.usetusk.ai/
+  description: AI-powered tool for generating unit and integration tests. Helps engineering
+    teams increase code coverage and prevent regressions with automated test generation
+    that runs in CI/CD pipelines. Creates happy path and edge case tests with one-click
+    commit to PRs and self-healing capabilities
+  category: testing
+  tags:
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-06'
+- name: Uithub
+  slug: uithub
+  website: https://uithub.com/
+  description: Easily Ask Your LLM Coding Questions. Just change the 'g' to a 'u'!
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Unblocked
+  slug: unblocked
+  website: https://getunblocked.com/
+  description: Unblocked brings all the context about your codebase together, so your
+    team gets expert-level answers, no matter where they’re working.
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-03-12'
+- name: Uxtly
+  slug: uxtly
+  website: https://uidrafter.com/
+  description: Convert wireframes and sketches into React components with AI. Uxtly
+    is a UI drafting software. With it, you can spec out requirements without graphic
+    design concerns, so you can communicate exactly what you are trying to achieve
+    to designers, developers, and AI.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: v0-1.0-md
+  slug: v0-10-md
+  website: https://v0.dev/pricing
+  description: Specialized web-dev knowledge • OpenAI-compatible API • Use in Cursor,
+    Codex, or your own app
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-05-23'
+- name: Velocity
+  slug: velocity
+  website: https://velocity.tech/
+  description: AI‑Powered Production Engineer / SRE - Reducing MTTR with AI-driven
+    triage and root cause analysis. Velocity surfaces the right context — logs, metrics,
+    runbooks, dashboards and more, in one place so engineers can triage and resolve
+    incidents faster
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-05-09'
+- name: Ventrilo
+  slug: ventrilo
+  website: https://ventrilo.ai/
+  description: Imagine a world where every developer has a dedicated test resource.
+  category: testing
+  tags:
+  - Beta
+  - Testing
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-03-12'
+- name: Vercel v0
+  slug: vercel-v0
+  website: https://v0.dev/
+  description: What can I help you ship? v0.dev is a web-based AI design tool created
+    by Vercel that generates UI components and designs from text prompts. It allows
+    developers and designers to quickly prototype interfaces by simply describing
+    what they want in natural language, then exports the results as Reac...
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Vibe Rules
+  slug: vibe-rules
+  website: https://github.com/FutureExcited/vibe-rules
+  description: A powerful CLI tool for managing and sharing AI rules (prompts, configurations)
+    across different editors and tools.
+  category: prompting
+  tags:
+  - Prompting
+  - Code
+  open_source: true
+  date_added: '2025-07-04'
+- name: Vibetunnel
+  slug: vibetunnel
+  website: https://vibetunnel.sh/
+  description: VibeTunnel proxies your terminals right into the browser, so you can
+    vibe-code anywhere. Watch output scroll in real-time, type new commands, and spawn
+    fresh sessions on the fly.
+  category: spec-driven
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-07-25'
+- name: Visily
+  slug: visily
+  website: https://www.visily.ai/ai-design/
+  description: Visily’s AI converts any user design input—text prompt, screenshot,
+    and more—to a fully customizable high-fidelity design. Unlike other software,
+    getting started is the easiest part!
+  category: design
+  tags:
+  - Design
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Void Editor
+  slug: void-editor
+  website: https://voideditor.com/
+  description: Void is an open source Cursor alternative. Write code with the best
+    AI tools, use any model, and retain full control over your data.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: true
+  date_added: '2025-04-02'
+- name: Warp
+  slug: warp
+  website: https://www.warp.dev/
+  description: The intelligent terminal. Become a command line power user on day one.
+    Warp combines AI and your dev team’s knowledge in one fast, intuitive terminal.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Wasmer
+  slug: wasmer
+  website: https://wasmer.io/
+  description: Run your apps Secure. Fast. At Scale Experience the new container technology
+    powered by WebAssembly that runs your programs safely, anywhere. Locally or in
+    the cloud
+  category: sandbox
+  tags:
+  - Execution Sandbox
+  - AIE
+  open_source: false
+  date_added: '2025-03-24'
+- name: Wave Term
+  slug: wave-term
+  website: https://www.waveterm.dev/
+  description: Stop Context Switching by Bringing Context Into Your Terminal Wave
+    is an open-source terminal with superpowers, integrating file previews, file editing,
+    AI, web browsing, and workspace organization.
+  category: cli
+  tags:
+  - Terminal
+  - Code
+  open_source: false
+  date_added: '2025-04-14'
+- name: Wave9
+  slug: wave9
+  website: https://windsurf.com/blog/windsurf-wave-9-swe-1
+  description: 'This family is currently comprised of three distinct models: SWE-1:
+    Approximately Claude 3.5 Sonnet levels of tool-call reasoning while being cheaper
+    to serve. It will be available to all paid users for a promotional period of 0
+    credits per user prompt. SWE-1-lite: A smaller model that replaces C...'
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-05-23'
+- name: What The Diff
+  slug: what-the-diff
+  website: https://whatthediff.ai/
+  description: The AI assistant for your pull requests. What The Diff automatically
+    writes pull request descriptions, sends out summarized notifications to keep non-technical
+    stakeholders in the loop, and helps you to refactor minor issues during the review.
+  category: review
+  tags:
+  - Review
+  - Quality Assurance
+  open_source: false
+  date_added: '2025-04-02'
+- name: Wild Moose
+  slug: wild-moose
+  website: https://www.wildmoose.ai/
+  description: End downtime before it starts. Fast, efficient root cause analysis
+    that improves with every incident
+  category: sre
+  tags:
+  - SRE
+  - DevOps
+  open_source: false
+  date_added: '2025-05-09'
+- name: Wild-Card
+  slug: wild-card
+  website: https://wild-card.ai/
+  description: 'Your AI Engineering Team: Wildcard is your AI team that erases backlogs,
+    runs migrations, and the first responder in production.'
+  category: ai-agents
+  tags:
+  - Autonomous Agent
+  - Code
+  open_source: false
+  date_added: '2025-07-04'
+- name: Windsurf
+  slug: windsurf
+  website: https://codeium.com/windsurf/
+  description: Built to keep you in flow state. The first agentic IDE, and then some.
+    The Windsurf Editor is where the work of developers and AI truly flow together,
+    allowing for a coding experience that feels like literal magic.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Wisary
+  slug: wisary
+  website: https://wisary.ai/
+  description: Align Your Team to Ship the Right Product Fast With the help of AI,
+    Wisary keeps product managers & engineers aligned, PRDs clear, and projects on
+    track
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-04-25'
+- name: Wized
+  slug: wized
+  website: https://www.wized.com/
+  description: Rapidly write JavaScript in a low-code visual interface built for Webflow.
+    Solve coding challenges quickly with less code.
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: Wowslider
+  slug: wowslider
+  website: https://wowslider.com/website-builder/ai-website-cloner.html
+  description: Generate stunning websites with AI, no-code, free!
+  category: nocode
+  tags:
+  - Nocode
+  - Product
+  open_source: false
+  date_added: '2025-04-02'
+- name: Wrapifai
+  slug: wrapifai
+  website: https://wrapifai.com/
+  description: Make your own AI tools without any coding. Share them or embed into
+    your website to get more traffic and turn visitors into customers.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-12'
+- name: Write my PRD
+  slug: write-my-prd
+  website: https://writemyprd.com/
+  description: Make Writing PRDs a Breeze with ChatGPT.
+  category: requirements
+  tags:
+  - Requirements
+  - Product
+  open_source: false
+  date_added: '2025-03-12'
+- name: xAI Grok
+  slug: xai-grok
+  website: https://x.ai/news/grok-3
+  description: Grok 3 (Think) also attained 84.6% on graduate-level expert reasoning
+    (GPQA), and 79.4% on LiveCodeBench for code generation and problem-solving. Furthermore,
+    Grok 3 mini reaches a new frontier in cost-efficient reasoning for STEM tasks
+    that don't require as much world knowledge, reaching 95.8% o...
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: false
+  date_added: '2025-03-12'
+- name: Youware
+  slug: youware
+  website: https://www.youware.com/
+  description: First AI Coding Community Where Creators Build
+  category: prototyping
+  tags:
+  - Prototyping
+  - Product
+  open_source: false
+  date_added: '2025-06-06'
+- name: Zed
+  slug: zed
+  website: https://zed.dev
+  description: A next-generation code editor designed for high-performance collaboration
+    with humans and AI.
+  category: ide
+  tags:
+  - Editor
+  - Code
+  open_source: false
+  date_added: '2025-03-26'
+- name: Zeta
+  slug: zeta
+  website: https://huggingface.co/zed-industries/zeta
+  description: 'Edit Prediction: Fine-Tuned from Qwen2.5-Coder-7B'
+  category: model
+  tags:
+  - Model
+  - AIE
+  open_source: true
+  date_added: '2025-06-01'
