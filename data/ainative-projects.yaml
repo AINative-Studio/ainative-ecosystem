@@ -1,0 +1,63 @@
+# AINative Open Source Projects
+# Auto-synced from GitHub via scripts/sync-github-repos.py
+
+projects:
+  - name: ZeroDB MCP Server
+    slug: zerodb-mcp
+    description: Full-featured MCP server for ZeroDB with 69+ tools covering vectors, memory, NoSQL, files, and PostgreSQL.
+    category: mcp-servers
+    repo: https://github.com/AINative-Studio/zerodb-mcp-server
+    homepage: https://ainative.studio
+    license: MIT
+    language: Python
+    tags: [mcp, zerodb, vector-database, memory]
+
+  - name: ZeroDB Memory MCP
+    slug: zerodb-memory-mcp
+    description: Lightweight MCP server focused on cognitive memory — 6 tools for store, recall, search, and context.
+    category: memory-systems
+    repo: https://github.com/AINative-Studio/zerodb-memory-mcp
+    homepage: https://ainative.studio
+    license: MIT
+    language: TypeScript
+    tags: [mcp, memory, zerodb]
+
+  - name: ZeroDB CLI
+    slug: zerodb-cli
+    description: CLI tool to instantly set up ZeroDB projects and auto-configure IDE MCP servers.
+    category: developer-tools
+    repo: https://github.com/AINative-Studio/zerodb-cli
+    homepage: https://ainative.studio
+    license: MIT
+    language: TypeScript
+    tags: [cli, zerodb, developer-tools]
+
+  - name: LangChain ZeroDB
+    slug: langchain-zerodb
+    description: LangChain vector store integration for ZeroDB.
+    category: vector-databases
+    repo: https://github.com/AINative-Studio/langchain-zerodb
+    homepage: https://ainative.studio
+    license: MIT
+    language: Python
+    tags: [langchain, zerodb, vector-store]
+
+  - name: LlamaIndex ZeroDB
+    slug: llama-index-zerodb
+    description: LlamaIndex vector store plugin for ZeroDB.
+    category: vector-databases
+    repo: https://github.com/AINative-Studio/llama-index-vector-stores-zerodb
+    homepage: https://ainative.studio
+    license: MIT
+    language: Python
+    tags: [llama-index, zerodb, vector-store]
+
+  - name: ZeroDB Local
+    slug: zerodb-local
+    description: Local-first vector database with SQLite, FAISS, and inline embeddings. Zero cloud dependency.
+    category: vector-databases
+    repo: https://github.com/AINative-Studio/zerodb-local
+    homepage: https://ainative.studio
+    license: MIT
+    language: Python
+    tags: [sqlite, faiss, local-first, embeddings]
