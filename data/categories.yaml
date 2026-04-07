@@ -1,0 +1,63 @@
+# AINative Ecosystem — Category Taxonomy
+# Each category groups related tools. A new category requires 3+ tools.
+
+categories:
+  - slug: ai-agents
+    name: AI Agents
+    description: Autonomous AI agent frameworks and orchestration platforms
+
+  - slug: vector-databases
+    name: Vector Databases
+    description: Vector storage, similarity search, and embedding databases
+
+  - slug: mcp-servers
+    name: MCP Servers
+    description: Model Context Protocol servers and integrations
+
+  - slug: llm-frameworks
+    name: LLM Frameworks
+    description: Libraries and frameworks for building LLM-powered applications
+
+  - slug: developer-tools
+    name: Developer Tools
+    description: CLI tools, SDKs, and utilities for AI-native development
+
+  - slug: memory-systems
+    name: Memory Systems
+    description: Persistent memory, context management, and cognitive architectures
+
+  - slug: embeddings
+    name: Embeddings
+    description: Embedding models, services, and utilities
+
+  - slug: rag
+    name: RAG
+    description: Retrieval-augmented generation pipelines and components
+
+  - slug: fine-tuning
+    name: Fine-Tuning
+    description: Model fine-tuning frameworks and tools
+
+  - slug: prompt-engineering
+    name: Prompt Engineering
+    description: Prompt management, templating, and optimization tools
+
+  - slug: observability
+    name: Observability
+    description: LLM monitoring, tracing, logging, and evaluation platforms
+
+  - slug: deployment
+    name: Deployment
+    description: Model serving, inference engines, and deployment platforms
+
+  - slug: data-pipelines
+    name: Data Pipelines
+    description: Data ingestion, transformation, and ETL for AI workloads
+
+  - slug: code-assistants
+    name: Code Assistants
+    description: AI-powered code generation, review, and IDE extensions
+
+  - slug: multimodal
+    name: Multimodal
+    description: Vision, audio, and multimodal AI tools

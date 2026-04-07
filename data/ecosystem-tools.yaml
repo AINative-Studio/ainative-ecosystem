@@ -1,0 +1,154 @@
+# AI-Native Ecosystem Tools Directory
+# Community-curated list of AI-native developer tools.
+# See CONTRIBUTING.md for how to add your project.
+
+tools:
+  - name: LangChain
+    slug: langchain
+    description: Framework for developing applications powered by large language models.
+    category: llm-frameworks
+    repo: https://github.com/langchain-ai/langchain
+    homepage: https://langchain.com
+    license: MIT
+    language: Python
+    tags: [llm, chains, agents, rag]
+
+  - name: LlamaIndex
+    slug: llama-index
+    description: Data framework for LLM applications — connect custom data sources to large language models.
+    category: rag
+    repo: https://github.com/run-llama/llama_index
+    homepage: https://llamaindex.ai
+    license: MIT
+    language: Python
+    tags: [rag, indexing, llm, data]
+
+  - name: ChromaDB
+    slug: chromadb
+    description: Open-source embedding database for AI applications.
+    category: vector-databases
+    repo: https://github.com/chroma-core/chroma
+    homepage: https://trychroma.com
+    license: Apache-2.0
+    language: Python
+    tags: [vector-database, embeddings, open-source]
+
+  - name: Qdrant
+    slug: qdrant
+    description: High-performance vector similarity search engine and database.
+    category: vector-databases
+    repo: https://github.com/qdrant/qdrant
+    homepage: https://qdrant.tech
+    license: Apache-2.0
+    language: Rust
+    tags: [vector-database, similarity-search, rust]
+
+  - name: Milvus
+    slug: milvus
+    description: Cloud-native vector database for scalable similarity search.
+    category: vector-databases
+    repo: https://github.com/milvus-io/milvus
+    homepage: https://milvus.io
+    license: Apache-2.0
+    language: Go
+    tags: [vector-database, cloud-native, scalable]
+
+  - name: CrewAI
+    slug: crewai
+    description: Framework for orchestrating role-playing autonomous AI agents.
+    category: ai-agents
+    repo: https://github.com/crewAIInc/crewAI
+    homepage: https://crewai.com
+    license: MIT
+    language: Python
+    tags: [agents, multi-agent, orchestration]
+
+  - name: AutoGen
+    slug: autogen
+    description: Multi-agent conversation framework from Microsoft.
+    category: ai-agents
+    repo: https://github.com/microsoft/autogen
+    homepage: https://microsoft.github.io/autogen
+    license: MIT
+    language: Python
+    tags: [agents, multi-agent, microsoft]
+
+  - name: Haystack
+    slug: haystack
+    description: End-to-end NLP framework for building search and RAG pipelines.
+    category: rag
+    repo: https://github.com/deepset-ai/haystack
+    homepage: https://haystack.deepset.ai
+    license: Apache-2.0
+    language: Python
+    tags: [rag, search, nlp, pipelines]
+
+  - name: vLLM
+    slug: vllm
+    description: High-throughput and memory-efficient inference engine for LLMs.
+    category: deployment
+    repo: https://github.com/vllm-project/vllm
+    homepage: https://vllm.ai
+    license: Apache-2.0
+    language: Python
+    tags: [inference, serving, gpu, performance]
+
+  - name: Ollama
+    slug: ollama
+    description: Run large language models locally with a simple CLI.
+    category: deployment
+    repo: https://github.com/ollama/ollama
+    homepage: https://ollama.ai
+    license: MIT
+    language: Go
+    tags: [local, inference, cli]
+
+  - name: LiteLLM
+    slug: litellm
+    description: Unified API to call 100+ LLM providers using the OpenAI format.
+    category: llm-frameworks
+    repo: https://github.com/BerriAI/litellm
+    homepage: https://litellm.ai
+    license: MIT
+    language: Python
+    tags: [llm, proxy, openai-compatible, multi-provider]
+
+  - name: Weights & Biases
+    slug: wandb
+    description: MLOps platform for experiment tracking, model management, and LLM evaluation.
+    category: observability
+    repo: https://github.com/wandb/wandb
+    homepage: https://wandb.ai
+    license: MIT
+    language: Python
+    tags: [mlops, experiment-tracking, evaluation]
+
+  - name: Langfuse
+    slug: langfuse
+    description: Open-source LLM engineering platform — traces, evals, prompt management.
+    category: observability
+    repo: https://github.com/langfuse/langfuse
+    homepage: https://langfuse.com
+    license: MIT
+    language: TypeScript
+    tags: [tracing, evaluation, prompt-management, observability]
+
+  - name: Instructor
+    slug: instructor
+    description: Structured outputs from LLMs using Pydantic validation.
+    category: llm-frameworks
+    repo: https://github.com/jxnl/instructor
+    homepage: https://python.useinstructor.com
+    license: MIT
+    language: Python
+    tags: [structured-output, pydantic, validation]
+
+  - name: Cursor
+    slug: cursor
+    description: AI-native code editor built on VS Code with deep LLM integration.
+    category: code-assistants
+    repo: https://github.com/getcursor/cursor
+    homepage: https://cursor.com
+    license: Proprietary
+    language: TypeScript
+    tags: [ide, code-generation, ai-coding]
