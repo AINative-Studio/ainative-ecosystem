@@ -1,0 +1,34 @@
+name: Validate Data
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+  push:
+    branches: [main]
+    paths:
+      - 'data/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Validate YAML data files
+        run: python3 scripts/validate.py
+
+      - name: Generate JSON
+        run: python3 scripts/generate-json.py
+
+      - name: Check dist output
+        run: |
+          test -f dist/ainative-projects.json && echo "ainative-projects.json OK"
+          test -f dist/categories.json && echo "categories.json OK"

@@ -1,0 +1,1282 @@
+{
+  "generated_at": "2026-04-08T00:30:29.715784+00:00",
+  "total": 81,
+  "projects": [
+    {
+      "name": "AINativeStudio-IDE",
+      "slug": "ainativestudio-ide",
+      "repo": "AINative-Studio/AINativeStudio-IDE",
+      "description": "AINative - Agentic IDE Client Application",
+      "category": "ide",
+      "language": "TypeScript",
+      "stars": 1,
+      "tags": [
+        "ide",
+        "agentic",
+        "desktop-app"
+      ],
+      "featured": true
+    },
+    {
+      "name": "ainative-code",
+      "slug": "ainative-code",
+      "repo": "AINative-Studio/ainative-code",
+      "description": "AI-Native Development CLI - Unified LLM interface with native ZeroDB, Design, Strapi, and RLHF integration",
+      "category": "ide",
+      "language": "Go",
+      "stars": 0,
+      "tags": [
+        "cli",
+        "llm",
+        "zerodb",
+        "rlhf"
+      ],
+      "featured": false
+    },
+    {
+      "name": "AINativeStudio-IDE-Builder",
+      "slug": "ainativestudio-ide-builder",
+      "repo": "AINative-Studio/AINativeStudio-IDE-Builder",
+      "description": "AINativeStudio IDE Builder for creating releases",
+      "category": "ide",
+      "language": "Shell",
+      "stars": 0,
+      "tags": [
+        "ide",
+        "builder",
+        "releases"
+      ],
+      "featured": false
+    },
+    {
+      "name": "versions",
+      "slug": "versions",
+      "repo": "AINative-Studio/versions",
+      "description": "Versions for AINativeStudio-IDE-Builder",
+      "category": "ide",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "ide",
+        "versioning"
+      ],
+      "featured": false
+    },
+    {
+      "name": "binaries",
+      "slug": "binaries",
+      "repo": "AINative-Studio/binaries",
+      "description": "Binary for AINativeStudio-IDE-Builder",
+      "category": "ide",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "ide",
+        "binaries"
+      ],
+      "featured": false
+    },
+    {
+      "name": "superflex-vscode",
+      "slug": "superflex-vscode",
+      "repo": "AINative-Studio/superflex-vscode",
+      "description": "Superflex: Your Frontend AI Pair Programmer",
+      "category": "ide",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "vscode",
+        "frontend",
+        "ai-pair-programmer"
+      ],
+      "featured": false
+    },
+    {
+      "name": "builder-ainative-studio",
+      "slug": "builder-ainative-studio",
+      "repo": "AINative-Studio/builder-ainative-studio",
+      "description": "AI-powered React component builder using hierarchical multi-agent system",
+      "category": "ide",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "react",
+        "component-builder",
+        "multi-agent"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ainative-zerodb-memory-mcp",
+      "slug": "ainative-zerodb-memory-mcp",
+      "repo": "AINative-Studio/ainative-zerodb-memory-mcp",
+      "description": "AINative ZeroDB Memory MCP Server - 6 optimized tools for agent memory with smart context management, semantic search, and automatic pruning. 92% smaller than monolithic server.",
+      "category": "zerodb",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "memory",
+        "semantic-search",
+        "agent-memory"
+      ],
+      "featured": true,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "ainative-zerodb-memory-mcp"
+        }
+      ]
+    },
+    {
+      "name": "ainative-zerodb-mcp-server",
+      "slug": "ainative-zerodb-mcp-server",
+      "repo": "AINative-Studio/ainative-zerodb-mcp-server",
+      "description": "AINative ZeroDB MCP Server",
+      "category": "zerodb",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "zerodb",
+        "mcp-server"
+      ],
+      "featured": false,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "zerodb-mcp"
+        }
+      ]
+    },
+    {
+      "name": "zerodb-python-sdk",
+      "slug": "zerodb-python-sdk",
+      "repo": "AINative-Studio/zerodb-python-sdk",
+      "description": "ZeroDB Python SDK - Official Python client for ZeroDB MCP Bridge API",
+      "category": "zerodb",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "python",
+        "zerodb"
+      ],
+      "featured": false,
+      "published_packages": [
+        {
+          "registry": "pypi",
+          "name": "zerodb-mcp"
+        }
+      ]
+    },
+    {
+      "name": "zerodb-typescript-sdk",
+      "slug": "zerodb-typescript-sdk",
+      "repo": "AINative-Studio/zerodb-typescript-sdk",
+      "description": "ZeroDB TypeScript SDK - Official TypeScript/JavaScript client for ZeroDB MCP Bridge API",
+      "category": "zerodb",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "typescript",
+        "zerodb"
+      ],
+      "featured": false
+    },
+    {
+      "name": "zerodb-go-sdk",
+      "slug": "zerodb-go-sdk",
+      "repo": "AINative-Studio/zerodb-go-sdk",
+      "description": "ZeroDB Go SDK - Official Go client for ZeroDB MCP Bridge API",
+      "category": "zerodb",
+      "language": "Go",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "go",
+        "zerodb"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ai-kit",
+      "slug": "ai-kit",
+      "repo": "AINative-Studio/ai-kit",
+      "description": "The Stripe for LLM Applications - Framework-agnostic SDK for building AI-powered applications",
+      "category": "ai-kit",
+      "language": "TypeScript",
+      "stars": 3,
+      "tags": [
+        "sdk",
+        "llm",
+        "framework-agnostic",
+        "a2ui"
+      ],
+      "featured": true,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "ai-kit"
+        }
+      ]
+    },
+    {
+      "name": "ai-kit-a2ui",
+      "slug": "ai-kit-a2ui",
+      "repo": "AINative-Studio/ai-kit-a2ui",
+      "description": "A2UI renderer for React + ShadCN - Dynamic agent-driven UIs for AIKit",
+      "category": "ai-kit",
+      "language": "TypeScript",
+      "stars": 4,
+      "tags": [
+        "react",
+        "shadcn",
+        "a2ui",
+        "agent-ui"
+      ],
+      "featured": true,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "ai-kit-a2ui"
+        }
+      ]
+    },
+    {
+      "name": "ai-kit-a2ui-core",
+      "slug": "ai-kit-a2ui-core",
+      "repo": "AINative-Studio/ai-kit-a2ui-core",
+      "description": "AI-Kit - Framework-agnostic A2UI protocol implementation - Shared core for all AIKit A2UI renderers",
+      "category": "ai-kit",
+      "language": "TypeScript",
+      "stars": 3,
+      "tags": [
+        "a2ui",
+        "protocol",
+        "core"
+      ],
+      "featured": false,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "ai-kit-a2ui-core"
+        }
+      ]
+    },
+    {
+      "name": "ai-kit-svelte-a2ui",
+      "slug": "ai-kit-svelte-a2ui",
+      "repo": "AINative-Studio/ai-kit-svelte-a2ui",
+      "description": "A2UI renderer for Svelte + Radix Svelte - Fastest agent-driven UIs with Svelte stores",
+      "category": "ai-kit",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "svelte",
+        "a2ui",
+        "radix"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ai-kit-vue-a2ui",
+      "slug": "ai-kit-vue-a2ui",
+      "repo": "AINative-Studio/ai-kit-vue-a2ui",
+      "description": "A2UI renderer for Vue 3 + Radix Vue - Reactive agent-driven UIs with Vue composables",
+      "category": "ai-kit",
+      "language": null,
+      "stars": 1,
+      "tags": [
+        "vue",
+        "a2ui",
+        "radix",
+        "composables"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ai-kit-nextjs-a2ui",
+      "slug": "ai-kit-nextjs-a2ui",
+      "repo": "AINative-Studio/ai-kit-nextjs-a2ui",
+      "description": "A2UI renderer for Next.js with Server Components, Server Actions, Streaming SSR, and Edge Runtime",
+      "category": "ai-kit",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "nextjs",
+        "a2ui",
+        "server-components",
+        "streaming"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ai-kit-showcase",
+      "slug": "ai-kit-showcase",
+      "repo": "AINative-Studio/ai-kit-showcase",
+      "description": "AI Kit Showcase - Interactive demo site for AI Kit capabilities",
+      "category": "ai-kit",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "demo",
+        "showcase"
+      ],
+      "featured": false
+    },
+    {
+      "name": "aikit-agent-demo",
+      "slug": "aikit-agent-demo",
+      "repo": "AINative-Studio/aikit-agent-demo",
+      "description": "AI Kit Multi-Agent Browser Demo - Customer Support, Code Assistant, and Creative Writer agents",
+      "category": "ai-kit",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "demo",
+        "multi-agent",
+        "browser"
+      ],
+      "featured": false
+    },
+    {
+      "name": "MCP-Servers",
+      "slug": "mcp-servers",
+      "repo": "AINative-Studio/MCP-Servers",
+      "description": "Model Context Protocol Servers",
+      "category": "mcp-servers",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "protocol",
+        "servers"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ainative-strapi-mcp-server",
+      "slug": "ainative-strapi-mcp-server",
+      "repo": "AINative-Studio/ainative-strapi-mcp-server",
+      "description": "Model Context Protocol (MCP) server for AINative Strapi CMS - manage blog posts, tutorials, and events through standardized AI agent interfaces",
+      "category": "mcp-servers",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "strapi",
+        "cms",
+        "blog"
+      ],
+      "featured": false
+    },
+    {
+      "name": "DesignSystem-MCP",
+      "slug": "designsystem-mcp",
+      "repo": "AINative-Studio/DesignSystem-MCP",
+      "description": "Powerful design system management capabilities for agents",
+      "category": "mcp-servers",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "design-system",
+        "agents"
+      ],
+      "featured": false
+    },
+    {
+      "name": "shadcn-ui-mcp-server",
+      "slug": "shadcn-ui-mcp-server",
+      "repo": "AINative-Studio/shadcn-ui-mcp-server",
+      "description": "A MCP server to allow LLMs gain context about shadcn UI component structure, usage and installation",
+      "category": "mcp-servers",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "shadcn",
+        "ui-components"
+      ],
+      "featured": false
+    },
+    {
+      "name": "mcp-l-core",
+      "slug": "mcp-l-core",
+      "repo": "AINative-Studio/mcp-l-core",
+      "description": "The Listening Protocol for AI-Native IDEs",
+      "category": "mcp-servers",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "mcp",
+        "listening-protocol",
+        "ide"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Agent-402",
+      "slug": "agent-402",
+      "repo": "AINative-Studio/Agent-402",
+      "description": "Autonomous Fintech Agent Crew (AINative Edition: CrewAI x X402 x ZeroDB x AIKit)",
+      "category": "agent-infrastructure",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "fintech",
+        "crewai",
+        "x402",
+        "autonomous"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Agent-402-frontend",
+      "slug": "agent-402-frontend",
+      "repo": "AINative-Studio/Agent-402-frontend",
+      "description": "Agent-402 frontend application",
+      "category": "agent-infrastructure",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "agent-402",
+        "frontend"
+      ],
+      "featured": false
+    },
+    {
+      "name": "agent-swarm-monitor",
+      "slug": "agent-swarm-monitor",
+      "repo": "AINative-Studio/agent-swarm-monitor",
+      "description": "Agent Swarm Monitor Dashboard - Real-time monitoring UI for AI agent swarms with OpenClaw integration",
+      "category": "agent-infrastructure",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "monitoring",
+        "dashboard",
+        "openclaw",
+        "swarm"
+      ],
+      "featured": false
+    },
+    {
+      "name": "cody-sdk-typescript",
+      "slug": "cody-sdk-typescript",
+      "repo": "AINative-Studio/cody-sdk-typescript",
+      "description": "Cody SDK - TypeScript SDK supporting AINative models (qwen, gemma, deepseek) with dual-provider routing",
+      "category": "agent-infrastructure",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "cody",
+        "dual-provider",
+        "llm-routing"
+      ],
+      "featured": false
+    },
+    {
+      "name": "agentic-rules",
+      "slug": "agentic-rules",
+      "repo": "AINative-Studio/agentic-rules",
+      "description": "Markdown Syntax Rules Files to use in Agentic IDEs",
+      "category": "agent-infrastructure",
+      "language": "Shell",
+      "stars": 10,
+      "tags": [
+        "rules",
+        "agentic-ide",
+        "markdown",
+        "best-practices"
+      ],
+      "featured": true
+    },
+    {
+      "name": "sandbox-runtime",
+      "slug": "sandbox-runtime",
+      "repo": "AINative-Studio/sandbox-runtime",
+      "description": "A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.",
+      "category": "agent-infrastructure",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sandbox",
+        "security",
+        "isolation"
+      ],
+      "featured": false
+    },
+    {
+      "name": "telemetry-agent",
+      "slug": "telemetry-agent",
+      "repo": "AINative-Studio/telemetry-agent",
+      "description": "Context-Aware Agent Status & Telemetry Agent",
+      "category": "agent-infrastructure",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "telemetry",
+        "monitoring",
+        "observability"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Agent-Gaunlet-Starter-Kit",
+      "slug": "agent-gauntlet-starter-kit",
+      "repo": "AINative-Studio/Agent-Gaunlet-Starter-Kit",
+      "description": "Official starter kit for building and testing agents for Live Agent Gauntlet",
+      "category": "agent-infrastructure",
+      "language": "TypeScript",
+      "stars": 1,
+      "tags": [
+        "starter-kit",
+        "agent-gauntlet",
+        "testing"
+      ],
+      "featured": false
+    },
+    {
+      "name": "get-physics-done",
+      "slug": "get-physics-done",
+      "repo": "AINative-Studio/get-physics-done",
+      "description": "The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI)",
+      "category": "agent-infrastructure",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "physics",
+        "agentic-ai",
+        "research"
+      ],
+      "featured": false
+    },
+    {
+      "name": "fundraising-agent",
+      "slug": "fundraising-agent",
+      "repo": "AINative-Studio/fundraising-agent",
+      "description": "WhatsApp-Native AI Call-Time Manager (Non-Political Fundraising)",
+      "category": "agent-infrastructure",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "whatsapp",
+        "fundraising",
+        "call-time"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ainative-sdks",
+      "slug": "ainative-sdks",
+      "repo": "AINative-Studio/ainative-sdks",
+      "description": "Official SDKs for AINative Studio API - React, Next.js, and future SDK packages",
+      "category": "sdks",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "react",
+        "nextjs"
+      ],
+      "featured": false,
+      "published_packages": [
+        {
+          "registry": "npm",
+          "name": "@ainative/react-sdk"
+        },
+        {
+          "registry": "npm",
+          "name": "@ainative/nextjs-sdk"
+        }
+      ]
+    },
+    {
+      "name": "echo",
+      "slug": "echo",
+      "repo": "AINative-Studio/echo",
+      "description": "The User Pays AI SDK",
+      "category": "sdks",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "user-pays",
+        "billing"
+      ],
+      "featured": false
+    },
+    {
+      "name": "python-sdk",
+      "slug": "python-sdk",
+      "repo": "AINative-Studio/python-sdk",
+      "description": "AINative Studio Python SDK",
+      "category": "sdks",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "python"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Go-SDK",
+      "slug": "go-sdk",
+      "repo": "AINative-Studio/Go-SDK",
+      "description": "AINative Go SDK",
+      "category": "sdks",
+      "language": "Go",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "go"
+      ],
+      "featured": false
+    },
+    {
+      "name": "TypeScript-SDK",
+      "slug": "typescript-sdk",
+      "repo": "AINative-Studio/TypeScript-SDK",
+      "description": "AINative TypeScript SDK",
+      "category": "sdks",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "sdk",
+        "typescript"
+      ],
+      "featured": false
+    },
+    {
+      "name": "crewai-zerodb",
+      "slug": "crewai-zerodb",
+      "repo": "AINative-Studio/crewai-zerodb",
+      "description": "ZeroDB Integration for CrewAI (Open Source)",
+      "category": "integrations",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "crewai",
+        "zerodb",
+        "agents"
+      ],
+      "featured": false,
+      "published_packages": [
+        {
+          "registry": "pypi",
+          "name": "crewai-zerodb"
+        }
+      ]
+    },
+    {
+      "name": "chatwoot-zerodb",
+      "slug": "chatwoot-zerodb",
+      "repo": "AINative-Studio/chatwoot-zerodb",
+      "description": "Open-source live-chat, email support, omni-channel desk with ZeroDB integration",
+      "category": "integrations",
+      "language": "Ruby",
+      "stars": 0,
+      "tags": [
+        "chatwoot",
+        "live-chat",
+        "zerodb",
+        "support"
+      ],
+      "featured": false
+    },
+    {
+      "name": "chatwoot",
+      "slug": "chatwoot",
+      "repo": "AINative-Studio/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud.",
+      "category": "integrations",
+      "language": "Ruby",
+      "stars": 0,
+      "tags": [
+        "chatwoot",
+        "live-chat",
+        "support"
+      ],
+      "featured": false
+    },
+    {
+      "name": "nextjs-zerodb-doc-search",
+      "slug": "nextjs-zerodb-doc-search",
+      "repo": "AINative-Studio/nextjs-zerodb-doc-search",
+      "description": "AI-powered semantic search with ZeroDB auto-embeddings. FREE embeddings, Meta Llama chat, 5-minute setup. Save 60-86% vs traditional stack.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 1,
+      "tags": [
+        "nextjs",
+        "zerodb",
+        "semantic-search",
+        "embeddings"
+      ],
+      "featured": false
+    },
+    {
+      "name": "strapi",
+      "slug": "strapi",
+      "repo": "AINative-Studio/strapi",
+      "description": "Deploy Strapi on Railway. Next-gen headless CMS.",
+      "category": "integrations",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "strapi",
+        "cms",
+        "railway"
+      ],
+      "featured": false
+    },
+    {
+      "name": "remotion",
+      "slug": "remotion",
+      "repo": "AINative-Studio/remotion",
+      "description": "Make videos programmatically with React",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "video",
+        "react",
+        "programmatic"
+      ],
+      "featured": false
+    },
+    {
+      "name": "docusaurus",
+      "slug": "docusaurus",
+      "repo": "AINative-Studio/docusaurus",
+      "description": "Easy to maintain open source documentation websites.",
+      "category": "integrations",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "docs",
+        "documentation",
+        "static-site"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ragbot-starter",
+      "slug": "ragbot-starter",
+      "repo": "AINative-Studio/ragbot-starter",
+      "description": "A production-ready RAG chatbot powered by ZeroDB vector database and Meta Llama - FREE embeddings, auto-semantic search, 5-minute setup",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 3,
+      "tags": [
+        "rag",
+        "chatbot",
+        "zerodb",
+        "llama",
+        "starter"
+      ],
+      "featured": true
+    },
+    {
+      "name": "ScoutAgent",
+      "slug": "scoutagent",
+      "repo": "AINative-Studio/ScoutAgent",
+      "description": "A minimal agent demo that saves, replays, and uses user memory to produce contextual responses",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "agent",
+        "memory",
+        "demo"
+      ],
+      "featured": false
+    },
+    {
+      "name": "nextjs-subscription-payments",
+      "slug": "nextjs-subscription-payments",
+      "repo": "AINative-Studio/nextjs-subscription-payments",
+      "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js and ZeroDB.",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "nextjs",
+        "saas",
+        "subscriptions",
+        "zerodb"
+      ],
+      "featured": false
+    },
+    {
+      "name": "sc-health-rag",
+      "slug": "sc-health-rag",
+      "repo": "AINative-Studio/sc-health-rag",
+      "description": "RAG chatbot for Santa Cruz County Health & Human Services - powered by AINative Studio & ZeroDB",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "rag",
+        "health",
+        "santa-cruz",
+        "zerodb"
+      ],
+      "featured": false
+    },
+    {
+      "name": "PublicFounders",
+      "slug": "publicfounders",
+      "repo": "AINative-Studio/PublicFounders",
+      "description": "A build-in-public founder network powered by LinkedIn data, AI-native agents, and ZeroDB semantic search APIs.",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 4,
+      "tags": [
+        "founders",
+        "linkedin",
+        "networking",
+        "zerodb"
+      ],
+      "featured": false
+    },
+    {
+      "name": "docflow",
+      "slug": "docflow",
+      "repo": "AINative-Studio/docflow",
+      "description": "Secure Employee Document Intake, Compliance & HRIS Sync Platform",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 3,
+      "tags": [
+        "hr",
+        "compliance",
+        "document-intake"
+      ],
+      "featured": false
+    },
+    {
+      "name": "smb-dash",
+      "slug": "smb-dash",
+      "repo": "AINative-Studio/smb-dash",
+      "description": "Insights Dashboard for SMBs",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 1,
+      "tags": [
+        "dashboard",
+        "smb",
+        "insights"
+      ],
+      "featured": false
+    },
+    {
+      "name": "dothack-backend",
+      "slug": "dothack-backend",
+      "repo": "AINative-Studio/dothack-backend",
+      "description": "DotHack backend application",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 1,
+      "tags": [
+        "backend",
+        "python"
+      ],
+      "featured": false
+    },
+    {
+      "name": "dothack-frontend",
+      "slug": "dothack-frontend",
+      "repo": "AINative-Studio/dothack-frontend",
+      "description": "DotHack frontend application",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 1,
+      "tags": [
+        "frontend",
+        "typescript"
+      ],
+      "featured": false
+    },
+    {
+      "name": "founderhouse",
+      "slug": "founderhouse",
+      "repo": "AINative-Studio/founderhouse",
+      "description": "Founder Chief Of Staff",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "founders",
+        "chief-of-staff"
+      ],
+      "featured": false
+    },
+    {
+      "name": "rewardsy",
+      "slug": "rewardsy",
+      "repo": "AINative-Studio/rewardsy",
+      "description": "AI-Powered Rewarded To-Do List",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "todo",
+        "rewards",
+        "gamification"
+      ],
+      "featured": false
+    },
+    {
+      "name": "foundercap",
+      "slug": "foundercap",
+      "repo": "AINative-Studio/foundercap",
+      "description": "Startup Funding Tracker & Dashboard Automation",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "funding",
+        "tracker",
+        "dashboard"
+      ],
+      "featured": false
+    },
+    {
+      "name": "MealBuddy",
+      "slug": "mealbuddy",
+      "repo": "AINative-Studio/MealBuddy",
+      "description": "AI Powered Meal Plans",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "meal-planning",
+        "ai",
+        "health"
+      ],
+      "featured": false
+    },
+    {
+      "name": "travelpal",
+      "slug": "travelpal",
+      "repo": "AINative-Studio/travelpal",
+      "description": "AI Assisted Travel Planner",
+      "category": "starter-kits",
+      "language": "Python",
+      "stars": 0,
+      "tags": [
+        "travel",
+        "planner",
+        "ai"
+      ],
+      "featured": false
+    },
+    {
+      "name": "boardlens",
+      "slug": "boardlens",
+      "repo": "AINative-Studio/boardlens",
+      "description": "AI-native performance intelligence for venture portfolios",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "venture",
+        "portfolio",
+        "analytics"
+      ],
+      "featured": false
+    },
+    {
+      "name": "getlayn",
+      "slug": "getlayn",
+      "repo": "AINative-Studio/getlayn",
+      "description": "Enabling on Demand Real Time Commerce for Under Utilized Real Estate Assets",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "real-estate",
+        "commerce",
+        "on-demand"
+      ],
+      "featured": false
+    },
+    {
+      "name": "djunion",
+      "slug": "djunion",
+      "repo": "AINative-Studio/djunion",
+      "description": "Streaming Audio App for DJs and Podcasters",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "audio",
+        "streaming",
+        "dj",
+        "podcast"
+      ],
+      "featured": false
+    },
+    {
+      "name": "EventPulse",
+      "slug": "eventpulse",
+      "repo": "AINative-Studio/EventPulse",
+      "description": "Real-time collaborative task boards made simple",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "task-boards",
+        "collaboration",
+        "real-time"
+      ],
+      "featured": false
+    },
+    {
+      "name": "greentrack",
+      "slug": "greentrack",
+      "repo": "AINative-Studio/greentrack",
+      "description": "Lawn & Gardening Service Manager",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "gardening",
+        "service-manager"
+      ],
+      "featured": false
+    },
+    {
+      "name": "enerygrid",
+      "slug": "energygrid",
+      "repo": "AINative-Studio/enerygrid",
+      "description": "Use QNN optimization to forecast energy loads, optimize grid switching, and improve battery storage utilization",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "energy",
+        "quantum",
+        "grid",
+        "optimization"
+      ],
+      "featured": false
+    },
+    {
+      "name": "littleleague-nft",
+      "slug": "littleleague-nft",
+      "repo": "AINative-Studio/littleleague-nft",
+      "description": "NFT Trading App for Little Leagues of America",
+      "category": "starter-kits",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "nft",
+        "sports",
+        "trading"
+      ],
+      "featured": false
+    },
+    {
+      "name": "northbound-agency",
+      "slug": "northbound-agency",
+      "repo": "AINative-Studio/northbound-agency",
+      "description": "NorthBound Agency website",
+      "category": "starter-kits",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "agency",
+        "website"
+      ],
+      "featured": false
+    },
+    {
+      "name": "llms-txt",
+      "slug": "llms-txt",
+      "repo": "AINative-Studio/llms-txt",
+      "description": "The /llms.txt file, helping language models use your website",
+      "category": "community",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "tags": [
+        "llms-txt",
+        "standard",
+        "web"
+      ],
+      "featured": false
+    },
+    {
+      "name": "santa-cruz-builder-class-2025",
+      "slug": "santa-cruz-builder-class-2025",
+      "repo": "AINative-Studio/santa-cruz-builder-class-2025",
+      "description": "Materials for the AINative Holiday Builder Class at D20 Pizza, Santa Cruz - December 19, 2025",
+      "category": "community",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "workshop",
+        "santa-cruz",
+        "education"
+      ],
+      "featured": false
+    },
+    {
+      "name": "NemoSwarm",
+      "slug": "nemoswarm",
+      "repo": "AINative-Studio/NemoSwarm",
+      "description": "NVIDIA plugin for secure installation of AgentSwarm",
+      "category": "community",
+      "language": "JavaScript",
+      "stars": 0,
+      "tags": [
+        "nvidia",
+        "agent-swarm",
+        "plugin"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Nemotron",
+      "slug": "nemotron",
+      "repo": "AINative-Studio/Nemotron",
+      "description": "Developer Asset Hub for NVIDIA Nemotron - training recipes, usage cookbooks, datasets, and end-to-end reference examples",
+      "category": "community",
+      "language": "Jupyter Notebook",
+      "stars": 0,
+      "tags": [
+        "nvidia",
+        "nemotron",
+        "training",
+        "cookbooks"
+      ],
+      "featured": false
+    },
+    {
+      "name": "kwanzaa",
+      "slug": "kwanzaa",
+      "repo": "AINative-Studio/kwanzaa",
+      "description": "First Fruits for AI - grounded knowledge, cultural integrity, and community power.",
+      "category": "community",
+      "language": "Python",
+      "stars": 1,
+      "tags": [
+        "culture",
+        "community",
+        "knowledge"
+      ],
+      "featured": false
+    },
+    {
+      "name": "ainative-ecosystem",
+      "slug": "ainative-ecosystem",
+      "repo": "AINative-Studio/ainative-ecosystem",
+      "description": "AINative Open Source Ecosystem - 80+ projects, 624+ AI-native tools directory. Submit your project via PR.",
+      "category": "community",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "ecosystem",
+        "directory",
+        "open-source"
+      ],
+      "featured": false
+    },
+    {
+      "name": "alloydb",
+      "slug": "alloydb",
+      "repo": "AINative-Studio/alloydb",
+      "description": "AlloyDB is a distributed SQL database.",
+      "category": "data-infrastructure",
+      "language": "Go",
+      "stars": 0,
+      "tags": [
+        "database",
+        "distributed",
+        "sql"
+      ],
+      "featured": false
+    },
+    {
+      "name": "dynomite",
+      "slug": "dynomite",
+      "repo": "AINative-Studio/dynomite",
+      "description": "A generic dynamo implementation for different k-v storage engines",
+      "category": "data-infrastructure",
+      "language": "C",
+      "stars": 0,
+      "tags": [
+        "dynamo",
+        "key-value",
+        "storage"
+      ],
+      "featured": false
+    },
+    {
+      "name": "roshi",
+      "slug": "roshi",
+      "repo": "AINative-Studio/roshi",
+      "description": "Roshi is a large-scale CRDT set implementation for timestamped events.",
+      "category": "data-infrastructure",
+      "language": "Go",
+      "stars": 0,
+      "tags": [
+        "crdt",
+        "distributed",
+        "events"
+      ],
+      "featured": false
+    },
+    {
+      "name": "llmevals-framework",
+      "slug": "llmevals-framework",
+      "repo": "AINative-Studio/llmevals-framework",
+      "description": "LLM evaluation framework",
+      "category": "evaluation",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "evals",
+        "llm",
+        "testing"
+      ],
+      "featured": false
+    },
+    {
+      "name": "llmevals-framework-frontend",
+      "slug": "llmevals-framework-frontend",
+      "repo": "AINative-Studio/llmevals-framework-frontend",
+      "description": "LLM evaluation framework frontend",
+      "category": "evaluation",
+      "language": null,
+      "stars": 0,
+      "tags": [
+        "evals",
+        "frontend",
+        "dashboard"
+      ],
+      "featured": false
+    },
+    {
+      "name": "oss-repo-check",
+      "slug": "oss-repo-check",
+      "repo": "AINative-Studio/oss-repo-check",
+      "description": "OSS repository checker with AINative services integration",
+      "category": "evaluation",
+      "language": "TypeScript",
+      "stars": 0,
+      "tags": [
+        "oss",
+        "repository",
+        "checker"
+      ],
+      "featured": false
+    }
+  ]
+}
