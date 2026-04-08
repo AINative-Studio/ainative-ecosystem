@@ -29,5 +29,12 @@ scripts/
 
 ## License
 
-Code: MIT | Data: CC-BY-SA 4.0
+This repository uses a **dual license**:
+
+| Scope | License | Directories |
+|-------|---------|-------------|
+| Code | [MIT](https://opensource.org/licenses/MIT) | `scripts/`, `.github/` |
+| Data | [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | `data/`, `dist/` |
+
+See [LICENSE](LICENSE) for the full text.
 
