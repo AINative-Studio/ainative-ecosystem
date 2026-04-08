@@ -1,13 +1,13 @@
 Dual License
 
-Code: MIT License
-Data/Content: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Code (scripts/, .github/): MIT License
+Data (data/, dist/): Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 ================================================================================
-MIT License (applies to all code, scripts, and configuration files)
+MIT License — applies to: scripts/, .github/, and all other code files
 ================================================================================
 
-Copyright (c) 2025-2026 AINative Studio
+Copyright (c) 2026 AINative Studio
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -29,8 +29,10 @@ SOFTWARE.
 
 ================================================================================
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-(applies to all data files in data/, documentation, and curated content)
+applies to: data/, dist/, and all curated content
 ================================================================================
+
+Copyright (c) 2026 AINative Studio
 
 You are free to:
 
