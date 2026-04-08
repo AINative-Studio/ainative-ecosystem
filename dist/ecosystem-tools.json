@@ -1,0 +1,815 @@
+{
+  "generated_at": "2026-04-08T00:30:29.715784+00:00",
+  "total": 48,
+  "tools": [
+    {
+      "name": "ZeroDB",
+      "slug": "zerodb",
+      "description": "Agent-native vector database with MCP support, semantic search, and multi-tenant isolation. Drop-in pgvector replacement with agent-first APIs.",
+      "category": "vector-databases",
+      "homepage": "https://zerodb.ainative.studio",
+      "repo": "https://github.com/AINative-Studio/zerodb-python-sdk",
+      "license": "MIT",
+      "language": "Python",
+      "ainative_product": true,
+      "featured": true,
+      "tags": [
+        "vector-database",
+        "mcp",
+        "agent-native",
+        "zerodb",
+        "embeddings",
+        "pgvector"
+      ],
+      "install": {
+        "pypi": "pip install zerodb-mcp",
+        "npm": "npx zerodb-cli init"
+      }
+    },
+    {
+      "name": "ZeroMemory",
+      "slug": "zeromemory",
+      "description": "Cognitive memory system for AI agents. Persistent remember/recall/forget APIs with entity graphs, temporal recall, and cascade forget.",
+      "category": "agent-memory",
+      "homepage": "https://ainative.studio/docs/zeromemory",
+      "repo": "https://github.com/AINative-Studio/zerodb-memory-mcp",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "featured": true,
+      "tags": [
+        "memory",
+        "agent-memory",
+        "cognitive",
+        "mcp",
+        "zerodb"
+      ]
+    },
+    {
+      "name": "AI Kit (A2UI)",
+      "slug": "ai-kit-a2ui",
+      "description": "Headless agent-accessible UI components for React, Vue, Svelte, and Next.js. ARIA-compliant with machine-readable data attributes.",
+      "category": "ui-components",
+      "homepage": "https://ainative.studio/ai-kit",
+      "repo": "https://github.com/AINative-Studio/ai-kit",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "featured": true,
+      "tags": [
+        "ui",
+        "react",
+        "vue",
+        "svelte",
+        "a2ui",
+        "accessibility",
+        "agent-accessible"
+      ],
+      "install": {
+        "npm": "npm install @ainative/ai-kit"
+      }
+    },
+    {
+      "name": "AINative IDE",
+      "slug": "ainative-ide",
+      "description": "Agentic IDE for building with AI-native tools. Native ZeroDB, Design System, and RLHF integration.",
+      "category": "ide",
+      "homepage": "https://ainative.studio/ide",
+      "repo": "https://github.com/AINative-Studio/AINativeStudio-IDE",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "featured": true,
+      "tags": [
+        "ide",
+        "agentic",
+        "desktop-app",
+        "zerodb"
+      ]
+    },
+    {
+      "name": "ainative-zerodb-memory-mcp",
+      "slug": "ainative-zerodb-memory-mcp",
+      "description": "Thin MCP server with 6 cognitive memory tools: store, search, get context, embed, semantic search, clear session.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/AINative-Studio/zerodb-memory-mcp",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "featured": false,
+      "tags": [
+        "mcp",
+        "memory",
+        "zerodb",
+        "agent-memory"
+      ],
+      "install": {
+        "npm": "npm install ainative-zerodb-memory-mcp"
+      }
+    },
+    {
+      "name": "ainative-strapi-mcp-server",
+      "slug": "ainative-strapi-mcp-server",
+      "description": "MCP server for Strapi CMS \u2014 manage content types, entries, media, and users via agent tools.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/AINative-Studio/ainative-strapi-mcp-server",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "featured": false,
+      "tags": [
+        "mcp",
+        "strapi",
+        "cms",
+        "content-management"
+      ]
+    },
+    {
+      "name": "langchain-zerodb",
+      "slug": "langchain-zerodb",
+      "description": "LangChain integration for ZeroDB vector store. Use ZeroDB as your vector backend in any LangChain application.",
+      "category": "integrations",
+      "repo": "https://github.com/AINative-Studio/langchain-zerodb",
+      "license": "MIT",
+      "language": "Python",
+      "ainative_product": true,
+      "featured": false,
+      "tags": [
+        "langchain",
+        "zerodb",
+        "vector-store",
+        "rag"
+      ],
+      "install": {
+        "pypi": "pip install langchain-zerodb"
+      }
+    },
+    {
+      "name": "LangChain",
+      "slug": "langchain",
+      "description": "Framework for developing applications powered by large language models. Chains, agents, memory, and retrieval.",
+      "category": "llm-frameworks",
+      "homepage": "https://langchain.com",
+      "repo": "https://github.com/langchain-ai/langchain",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "llm",
+        "chains",
+        "agents",
+        "rag",
+        "python"
+      ]
+    },
+    {
+      "name": "LlamaIndex",
+      "slug": "llama-index",
+      "description": "Data framework for LLM applications. Connect custom data sources to large language models with advanced RAG pipelines.",
+      "category": "rag",
+      "homepage": "https://llamaindex.ai",
+      "repo": "https://github.com/run-llama/llama_index",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "rag",
+        "indexing",
+        "llm",
+        "data",
+        "python"
+      ]
+    },
+    {
+      "name": "Haystack",
+      "slug": "haystack",
+      "description": "End-to-end NLP framework for building search systems and agents with LLMs.",
+      "category": "llm-frameworks",
+      "homepage": "https://haystack.deepset.ai",
+      "repo": "https://github.com/deepset-ai/haystack",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "nlp",
+        "search",
+        "rag",
+        "agents",
+        "python"
+      ]
+    },
+    {
+      "name": "DSPy",
+      "slug": "dspy",
+      "description": "Framework for algorithmically optimizing LM prompts and weights. Programming LMs, not prompting.",
+      "category": "llm-frameworks",
+      "homepage": "https://dspy.ai",
+      "repo": "https://github.com/stanfordnlp/dspy",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "prompting",
+        "optimization",
+        "llm",
+        "python"
+      ]
+    },
+    {
+      "name": "Semantic Kernel",
+      "slug": "semantic-kernel",
+      "description": "SDK for integrating LLMs into applications with plugins, planners, and memory.",
+      "category": "llm-frameworks",
+      "homepage": "https://learn.microsoft.com/semantic-kernel",
+      "repo": "https://github.com/microsoft/semantic-kernel",
+      "license": "MIT",
+      "language": "C#",
+      "tags": [
+        "llm",
+        "plugins",
+        "memory",
+        "microsoft",
+        "dotnet",
+        "python"
+      ]
+    },
+    {
+      "name": "AutoGen",
+      "slug": "autogen",
+      "description": "Multi-agent conversation framework by Microsoft. Build LLM applications with conversational agents.",
+      "category": "agent-frameworks",
+      "homepage": "https://microsoft.github.io/autogen",
+      "repo": "https://github.com/microsoft/autogen",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "multi-agent",
+        "conversation",
+        "microsoft",
+        "llm",
+        "python"
+      ]
+    },
+    {
+      "name": "CrewAI",
+      "slug": "crewai",
+      "description": "Role-playing agent framework for orchestrating autonomous AI agents with defined roles and goals.",
+      "category": "agent-frameworks",
+      "homepage": "https://crewai.com",
+      "repo": "https://github.com/crewAIInc/crewAI",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "agents",
+        "roles",
+        "orchestration",
+        "python"
+      ]
+    },
+    {
+      "name": "LangGraph",
+      "slug": "langgraph",
+      "description": "Library for building stateful multi-actor applications with LLMs. Cycles, branching, persistence.",
+      "category": "agent-frameworks",
+      "homepage": "https://langchain-ai.github.io/langgraph",
+      "repo": "https://github.com/langchain-ai/langgraph",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "graphs",
+        "stateful",
+        "multi-actor",
+        "llm",
+        "python"
+      ]
+    },
+    {
+      "name": "Phidata",
+      "slug": "phidata",
+      "description": "Framework for building AI assistants with memory, knowledge, and tools.",
+      "category": "agent-frameworks",
+      "homepage": "https://phidata.com",
+      "repo": "https://github.com/phidatahq/phidata",
+      "license": "Mozilla-2.0",
+      "language": "Python",
+      "tags": [
+        "agents",
+        "memory",
+        "tools",
+        "python"
+      ]
+    },
+    {
+      "name": "OpenAI Swarm",
+      "slug": "openai-swarm",
+      "description": "Experimental lightweight multi-agent orchestration framework by OpenAI.",
+      "category": "agent-frameworks",
+      "repo": "https://github.com/openai/swarm",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "agents",
+        "orchestration",
+        "openai",
+        "experimental",
+        "python"
+      ]
+    },
+    {
+      "name": "ChromaDB",
+      "slug": "chromadb",
+      "description": "Open-source embedding database. Lightweight and developer-friendly for AI applications.",
+      "category": "vector-databases",
+      "homepage": "https://trychroma.com",
+      "repo": "https://github.com/chroma-core/chroma",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "vector-database",
+        "embeddings",
+        "open-source",
+        "python"
+      ]
+    },
+    {
+      "name": "Qdrant",
+      "slug": "qdrant",
+      "description": "High-performance vector similarity search engine. Production-grade with filtering and payload storage.",
+      "category": "vector-databases",
+      "homepage": "https://qdrant.tech",
+      "repo": "https://github.com/qdrant/qdrant",
+      "license": "Apache-2.0",
+      "language": "Rust",
+      "tags": [
+        "vector-database",
+        "similarity-search",
+        "rust",
+        "production"
+      ]
+    },
+    {
+      "name": "Weaviate",
+      "slug": "weaviate",
+      "description": "Cloud-native vector database with graph-based data model and multi-modal search.",
+      "category": "vector-databases",
+      "homepage": "https://weaviate.io",
+      "repo": "https://github.com/weaviate/weaviate",
+      "license": "BSD-3-Clause",
+      "language": "Go",
+      "tags": [
+        "vector-database",
+        "graph",
+        "multi-modal",
+        "go"
+      ]
+    },
+    {
+      "name": "Milvus",
+      "slug": "milvus",
+      "description": "Open-source vector database for scalable similarity search. Built for AI-native applications.",
+      "category": "vector-databases",
+      "homepage": "https://milvus.io",
+      "repo": "https://github.com/milvus-io/milvus",
+      "license": "Apache-2.0",
+      "language": "Go",
+      "tags": [
+        "vector-database",
+        "scalable",
+        "go",
+        "production"
+      ]
+    },
+    {
+      "name": "pgvector",
+      "slug": "pgvector",
+      "description": "Open-source vector similarity search extension for PostgreSQL.",
+      "category": "vector-databases",
+      "repo": "https://github.com/pgvector/pgvector",
+      "license": "PostgreSQL",
+      "language": "C",
+      "tags": [
+        "vector-database",
+        "postgresql",
+        "extension",
+        "sql"
+      ]
+    },
+    {
+      "name": "MCP Filesystem Server",
+      "slug": "mcp-filesystem",
+      "description": "Official MCP server for local filesystem access. Read, write, list, and search files.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "license": "MIT",
+      "language": "TypeScript",
+      "tags": [
+        "mcp",
+        "filesystem",
+        "official",
+        "typescript"
+      ]
+    },
+    {
+      "name": "MCP GitHub Server",
+      "slug": "mcp-github",
+      "description": "Official MCP server for GitHub API integration. Manage repos, issues, PRs, and code.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "license": "MIT",
+      "language": "TypeScript",
+      "tags": [
+        "mcp",
+        "github",
+        "official",
+        "typescript"
+      ]
+    },
+    {
+      "name": "MCP Postgres Server",
+      "slug": "mcp-postgres",
+      "description": "Official MCP server for PostgreSQL. Query and manage database schema via agent tools.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/modelcontextprotocol/servers",
+      "license": "MIT",
+      "language": "TypeScript",
+      "tags": [
+        "mcp",
+        "postgres",
+        "database",
+        "official",
+        "typescript"
+      ]
+    },
+    {
+      "name": "shadcn-ui-mcp-server",
+      "slug": "shadcn-ui-mcp-server",
+      "description": "MCP server for shadcn/ui component library. Install, customize, and query components via agents.",
+      "category": "mcp-servers",
+      "repo": "https://github.com/AINative-Studio/shadcn-ui-mcp-server",
+      "license": "MIT",
+      "language": "TypeScript",
+      "ainative_product": true,
+      "tags": [
+        "mcp",
+        "shadcn",
+        "ui-components",
+        "typescript"
+      ]
+    },
+    {
+      "name": "LangSmith",
+      "slug": "langsmith",
+      "description": "Developer platform for LLM application observability. Trace, debug, test, and monitor LLM applications.",
+      "category": "observability",
+      "homepage": "https://smith.langchain.com",
+      "license": "Proprietary",
+      "tags": [
+        "observability",
+        "tracing",
+        "debugging",
+        "llm",
+        "langchain"
+      ]
+    },
+    {
+      "name": "Arize Phoenix",
+      "slug": "arize-phoenix",
+      "description": "Open-source AI observability platform for LLM traces, embeddings, and RAG evaluations.",
+      "category": "observability",
+      "homepage": "https://phoenix.arize.com",
+      "repo": "https://github.com/Arize-ai/phoenix",
+      "license": "ElasticV2",
+      "language": "Python",
+      "tags": [
+        "observability",
+        "tracing",
+        "rag",
+        "embeddings",
+        "open-source"
+      ]
+    },
+    {
+      "name": "Weave",
+      "slug": "weave",
+      "description": "Lightweight toolkit for tracking, versioning, and evaluating LLM applications. By Weights & Biases.",
+      "category": "observability",
+      "homepage": "https://wandb.ai/site/weave",
+      "repo": "https://github.com/wandb/weave",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "observability",
+        "evaluation",
+        "wandb",
+        "python"
+      ]
+    },
+    {
+      "name": "Guidance",
+      "slug": "guidance",
+      "description": "Language for controlling LLMs. Constrained generation, templates, and structured outputs.",
+      "category": "prompt-engineering",
+      "repo": "https://github.com/guidance-ai/guidance",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "prompting",
+        "structured-outputs",
+        "constrained-generation",
+        "python"
+      ]
+    },
+    {
+      "name": "Outlines",
+      "slug": "outlines",
+      "description": "Structured text generation with LLMs. JSON, regex, grammar-constrained outputs.",
+      "category": "prompt-engineering",
+      "repo": "https://github.com/outlines-dev/outlines",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "structured-outputs",
+        "json",
+        "regex",
+        "python"
+      ]
+    },
+    {
+      "name": "PromptFlow",
+      "slug": "promptflow",
+      "description": "Suite of tools for developing, testing, and deploying LLM-based AI applications. By Microsoft.",
+      "category": "prompt-engineering",
+      "repo": "https://github.com/microsoft/promptflow",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "prompting",
+        "testing",
+        "deployment",
+        "microsoft",
+        "python"
+      ]
+    },
+    {
+      "name": "text-embeddings-inference",
+      "slug": "text-embeddings-inference",
+      "description": "Blazing fast inference for text embeddings and reranking models. Hugging Face TEI.",
+      "category": "embedding-services",
+      "homepage": "https://huggingface.co/docs/text-embeddings-inference",
+      "repo": "https://github.com/huggingface/text-embeddings-inference",
+      "license": "HFOIL-1.0",
+      "language": "Rust",
+      "tags": [
+        "embeddings",
+        "inference",
+        "huggingface",
+        "rust",
+        "fast"
+      ]
+    },
+    {
+      "name": "sentence-transformers",
+      "slug": "sentence-transformers",
+      "description": "Python framework for sentence, paragraph, and image embeddings using transformer models.",
+      "category": "embedding-services",
+      "homepage": "https://sbert.net",
+      "repo": "https://github.com/UKPLab/sentence-transformers",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "embeddings",
+        "transformers",
+        "semantic-search",
+        "python"
+      ]
+    },
+    {
+      "name": "Continue",
+      "slug": "continue",
+      "description": "Open-source AI code assistant for VS Code and JetBrains. Bring your own models.",
+      "category": "ide",
+      "homepage": "https://continue.dev",
+      "repo": "https://github.com/continuedev/continue",
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "tags": [
+        "ide",
+        "vscode",
+        "jetbrains",
+        "ai-coding",
+        "open-source"
+      ]
+    },
+    {
+      "name": "Aider",
+      "slug": "aider",
+      "description": "AI pair programming in the terminal. Edit code in your local git repo using LLMs.",
+      "category": "ide",
+      "homepage": "https://aider.chat",
+      "repo": "https://github.com/paul-gauthier/aider",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "ai-coding",
+        "terminal",
+        "git",
+        "python",
+        "pair-programming"
+      ]
+    },
+    {
+      "name": "Sweep",
+      "slug": "sweep",
+      "description": "AI-powered GitHub assistant that turns issues into pull requests automatically.",
+      "category": "ide",
+      "homepage": "https://sweep.dev",
+      "repo": "https://github.com/sweepai/sweep",
+      "license": "Elastic-2.0",
+      "language": "Python",
+      "tags": [
+        "github",
+        "automation",
+        "pull-requests",
+        "python"
+      ]
+    },
+    {
+      "name": "Ollama",
+      "slug": "ollama",
+      "description": "Run large language models locally. Simple CLI and REST API for local model serving.",
+      "category": "inference",
+      "homepage": "https://ollama.com",
+      "repo": "https://github.com/ollama/ollama",
+      "license": "MIT",
+      "language": "Go",
+      "tags": [
+        "local-llm",
+        "inference",
+        "self-hosted",
+        "go",
+        "privacy"
+      ]
+    },
+    {
+      "name": "vLLM",
+      "slug": "vllm",
+      "description": "High-throughput and memory-efficient inference engine for LLMs. PagedAttention architecture.",
+      "category": "inference",
+      "homepage": "https://vllm.ai",
+      "repo": "https://github.com/vllm-project/vllm",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "inference",
+        "serving",
+        "gpu",
+        "performance",
+        "python"
+      ]
+    },
+    {
+      "name": "LiteLLM",
+      "slug": "litellm",
+      "description": "Unified API for 100+ LLM providers. OpenAI-compatible interface for any model.",
+      "category": "inference",
+      "homepage": "https://litellm.ai",
+      "repo": "https://github.com/BerriAI/litellm",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "llm",
+        "api",
+        "openai-compatible",
+        "multi-provider",
+        "python"
+      ]
+    },
+    {
+      "name": "LocalAI",
+      "slug": "localai",
+      "description": "Free and open-source OpenAI-compatible API for self-hosted models.",
+      "category": "inference",
+      "homepage": "https://localai.io",
+      "repo": "https://github.com/mudler/LocalAI",
+      "license": "MIT",
+      "language": "Go",
+      "tags": [
+        "local-llm",
+        "openai-compatible",
+        "self-hosted",
+        "go"
+      ]
+    },
+    {
+      "name": "Unstructured",
+      "slug": "unstructured",
+      "description": "Open-source toolkit for preprocessing unstructured documents for LLM applications.",
+      "category": "rag",
+      "homepage": "https://unstructured.io",
+      "repo": "https://github.com/Unstructured-IO/unstructured",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "document-parsing",
+        "rag",
+        "preprocessing",
+        "python"
+      ]
+    },
+    {
+      "name": "Docling",
+      "slug": "docling",
+      "description": "Parse PDF, DOCX, PPTX, and more for RAG pipelines. By IBM Research.",
+      "category": "rag",
+      "repo": "https://github.com/DS4SD/docling",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "document-parsing",
+        "pdf",
+        "rag",
+        "ibm",
+        "python"
+      ]
+    },
+    {
+      "name": "Ragas",
+      "slug": "ragas",
+      "description": "Evaluation framework for RAG pipelines. Faithfulness, answer relevancy, context precision.",
+      "category": "evaluation",
+      "homepage": "https://ragas.io",
+      "repo": "https://github.com/explodinggradients/ragas",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "rag",
+        "evaluation",
+        "benchmarking",
+        "python"
+      ]
+    },
+    {
+      "name": "Vercel AI SDK",
+      "slug": "vercel-ai-sdk",
+      "description": "React hooks and UI components for building AI-powered applications. Streaming, tool calls, RSC.",
+      "category": "ui-components",
+      "homepage": "https://sdk.vercel.ai",
+      "repo": "https://github.com/vercel/ai",
+      "license": "Apache-2.0",
+      "language": "TypeScript",
+      "tags": [
+        "react",
+        "streaming",
+        "ui",
+        "nextjs",
+        "typescript"
+      ]
+    },
+    {
+      "name": "CopilotKit",
+      "slug": "copilotkit",
+      "description": "React UI + infrastructure for in-app AI copilots. Chat, text generation, and actions.",
+      "category": "ui-components",
+      "homepage": "https://copilotkit.ai",
+      "repo": "https://github.com/CopilotKit/CopilotKit",
+      "license": "MIT",
+      "language": "TypeScript",
+      "tags": [
+        "react",
+        "copilot",
+        "ui",
+        "chat",
+        "typescript"
+      ]
+    },
+    {
+      "name": "DeepEval",
+      "slug": "deepeval",
+      "description": "LLM evaluation framework. Unit tests for LLM outputs with 14+ metrics.",
+      "category": "evaluation",
+      "homepage": "https://docs.confident-ai.com",
+      "repo": "https://github.com/confident-ai/deepeval",
+      "license": "Apache-2.0",
+      "language": "Python",
+      "tags": [
+        "evaluation",
+        "testing",
+        "llm",
+        "metrics",
+        "python"
+      ]
+    },
+    {
+      "name": "PromptBench",
+      "slug": "promptbench",
+      "description": "Unified evaluation library for LLMs. Adversarial prompts, robustness, and performance.",
+      "category": "evaluation",
+      "repo": "https://github.com/microsoft/promptbench",
+      "license": "MIT",
+      "language": "Python",
+      "tags": [
+        "evaluation",
+        "benchmarking",
+        "adversarial",
+        "microsoft",
+        "python"
+      ]
+    }
+  ]
+}
