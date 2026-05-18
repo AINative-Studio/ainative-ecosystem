@@ -550,3 +550,16 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Bilig WorkPaper MCP"
+    slug: "bilig-workpaper-mcp"
+    description: "Formula WorkPaper runtime for agents: edit cells, recalculate formulas, verify readback, and persist JSON."
+    category: "mcp-servers"
+    homepage: "https://proompteng.github.io/bilig/"
+    repo: "https://github.com/proompteng/bilig"
+    license: "MIT"
+    language: "TypeScript"
+    open_source: true
+    tags: ["mcp", "spreadsheet", "formula-engine", "agents", "typescript", "workpaper"]
+    install:
+      npm: "npm exec --package @bilig/headless -- bilig-workpaper-mcp"
