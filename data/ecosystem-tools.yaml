@@ -550,3 +550,11 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+- name: "AI ToolHub"
+  slug: "ai-toolhub"
+  description: "A collection of 15 free AI-powered utilities that run entirely in the browser. No API keys, no sign-up, zero data collection, 100% private."
+  category: "AI Frameworks"
+  repo: "https://github.com/dongze1213/ai-toolhub"
+  tags:
+    - "OSS"
