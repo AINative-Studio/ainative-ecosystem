@@ -550,3 +550,12 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "CoderPlan"
+    slug: "coderplan"
+    description: "LLM API Gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini and 100+ models with built-in monitoring."
+    category: "developer-tools"
+    homepage: "https://coderplan.ai"
+    license: "Proprietary"
+    tags: ["api-gateway", "llm", "openai-compatible", "developer-tools", "proxy"]
+    pricing: "pay-per-use"
