@@ -550,3 +550,12 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+  - name: "AI Agent Security Mini-Audit"
+    slug: "ai-agent-security-mini-audit"
+    description: "Browser-first checks for AI agent, contact funnel, and handoff risk."
+    category: "evaluation"
+    homepage: "https://mauroceron.github.io/ai-agent-security-mini-audit/"
+    repo: "https://github.com/MAUROCERON/ai-agent-security-mini-audit"
+    license: "MIT"
+    language: "HTML"
+    tags: ["ai-safety", "evaluation", "agents", "qa", "local-first", "security"]
