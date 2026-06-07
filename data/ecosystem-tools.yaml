@@ -417,6 +417,16 @@ tools:
     language: "Python"
     tags: ["ai-coding", "terminal", "git", "python", "pair-programming"]
 
+  - name: "Unship"
+    slug: "unship"
+    description: "Local picker for comparing AI agent-made UI variants, then keeping one and cleaning up the rest."
+    category: "ide"
+    homepage: "https://unship.dev"
+    repo: "https://github.com/mbenhard/unship"
+    license: "MIT"
+    language: "JavaScript"
+    tags: ["ai-coding", "ui", "variants", "local-first", "cli"]
+
   - name: "Sweep"
     slug: "sweep"
     description: "AI-powered GitHub assistant that turns issues into pull requests automatically."
