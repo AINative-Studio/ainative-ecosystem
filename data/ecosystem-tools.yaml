@@ -42,6 +42,17 @@ tools:
     featured: true
     tags: ["memory", "agent-memory", "cognitive", "mcp", "zerodb"]
 
+  - name: "Tree Ring Memory"
+    slug: "tree-ring-memory"
+    description: "Local-first memory lifecycle for AI coding agents with recall, redaction, audit, and adapters."
+    category: "agent-memory"
+    homepage: "https://terminallylazy.github.io/Tree-Ring-Memory/"
+    repo: "https://github.com/TerminallyLazy/Tree-Ring-Memory"
+    license: "MIT"
+    language: "Rust"
+    open_source: true
+    tags: ["memory", "agent-memory", "local-first", "coding-agents", "rust", "sqlite"]
+
   - name: "AI Kit (A2UI)"
     slug: "ai-kit-a2ui"
     description: "Headless agent-accessible UI components for React, Vue, Svelte, and Next.js. ARIA-compliant with machine-readable data attributes."
