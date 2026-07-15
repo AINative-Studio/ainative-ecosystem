@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+
+  - name: "Aural"
+      slug: "aural.   
+       description: "Self-hostable AI interview platform for adaptive voice, chat, and video interviews with structured scoring and practice feedback."
+           category: "Other"
+               repo: "https://github.com/1146345502/aural-oss"
+                   tags:
+                         - "OSS"
+                               - "Self-hosted"
+                                     - "Interview"
