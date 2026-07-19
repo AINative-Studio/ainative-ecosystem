@@ -528,6 +528,17 @@ tools:
     language: "TypeScript"
     tags: ["react", "copilot", "ui", "chat", "typescript"]
 
+  - name: "Markstream"
+    slug: "markstream"
+    description: "Streaming Markdown renderer for AI chat interfaces with Vue, React, Svelte, Angular, Mermaid, and KaTeX."
+    category: "ui-components"
+    homepage: "https://markstream.simonhe.me"
+    repo: "https://github.com/Simon-He95/markstream-vue"
+    license: "MIT"
+    language: "TypeScript"
+    open_source: true
+    tags: ["streaming", "markdown", "ai-chat", "vue", "react", "typescript"]
+
   # ============================================================
   # Evaluation / Testing
   # ============================================================
