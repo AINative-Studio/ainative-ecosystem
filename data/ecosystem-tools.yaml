@@ -471,6 +471,17 @@ tools:
     language: "Go"
     tags: ["local-llm", "openai-compatible", "self-hosted", "go"]
 
+  - name: "light-ocr"
+    slug: "light-ocr"
+    description: "Fast offline OCR for Node.js and C++, using PP-OCRv6 and ONNX Runtime with hardware acceleration."
+    category: "inference"
+    homepage: "https://www.npmjs.com/package/@arcships/light-ocr"
+    repo: "https://github.com/arcships/light-ocr"
+    license: "Apache-2.0"
+    language: "C++"
+    open_source: true
+    tags: ["ocr", "on-device-ai", "onnx-runtime", "nodejs", "cpp", "hardware-acceleration"]
+
   # ============================================================
   # RAG / Data Pipelines
   # ============================================================
