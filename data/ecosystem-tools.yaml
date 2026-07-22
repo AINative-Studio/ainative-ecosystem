@@ -4,7 +4,13 @@
 # Format: one entry per tool, required fields: name, slug, description, category
 # To add a tool: see CONTRIBUTING.md
 #
-# Data seeded from ainativedev.io (MIT-licensed dataset, 624 tools)
+# Data seeded from ainativedev.io (- name: "GPTWATERMARKER"
+  slug: "gptwatermarker"
+  description: "AI-powered tools that help creators and businesses transform images and videos into clean, high-quality visual content with speed, simplicity, and professional results."
+  category: "Other"
+  repo: "https://github.com/GPTWATERMAKER/GPTWATERMARKER"
+  tags:
+    - "OSS"MIT-licensed dataset, 624 tools)
 # AINative tools are marked with ainative_product: true
 #
 # Refs: AINative-Studio/ainative-ecosystem#3
