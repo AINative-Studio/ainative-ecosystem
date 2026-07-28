@@ -105,6 +105,17 @@ tools:
     install:
       pypi: "pip install langchain-zerodb"
 
+  - name: "Mydentify Public API"
+    slug: "mydentify-public-api"
+    description: "Free read-only product and directory feeds for AI agents and discovery applications."
+    category: "integrations"
+    homepage: "https://mydentify.com/developers"
+    repo: "https://github.com/mitdralla/mydentify-api"
+    license: "MIT"
+    language: "HTML"
+    open_source: true
+    tags: ["api", "product-discovery", "directories", "agents", "openapi", "no-auth"]
+
   # ============================================================
   # LLM Frameworks
   # ============================================================
