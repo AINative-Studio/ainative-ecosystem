@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "AgentsKit"
+    slug: "agentskit"
+    description: "Composable TypeScript toolkit for agents: adapters, runtime, tools, memory, RAG, sandboxing, observability, and evals."
+    category: "agent-frameworks"
+    homepage: "https://www.agentskit.io"
+    repo: "https://github.com/AgentsKit-io/agentskit"
+    license: "MIT"
+    language: "TypeScript"
+    open_source: true
+    tags: ["typescript", "provider-agnostic", "multi-agent", "rag", "observability", "sandboxing"]
