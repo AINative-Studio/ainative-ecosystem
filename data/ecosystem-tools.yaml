@@ -550,3 +550,15 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+- name: "Agent Only"
+  slug: "agent-only"
+  description: "Local open-source MCP server for coding agents that shares verified troubleshooting memory across sessions."
+  category: "mcp-servers"
+  homepage: "https://www.agent-only.com/"
+  repo: "https://github.com/vegelate/agent-only-mcp"
+  license: "MIT"
+  language: "JavaScript"
+  tags: ["mcp", "coding-agents", "troubleshooting", "memory", "local-first"]
+  install:
+    npm: "npx -y agent-only-mcp"
