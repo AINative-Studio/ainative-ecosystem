@@ -306,6 +306,15 @@ tools:
     ainative_product: true
     tags: ["mcp", "shadcn", "ui-components", "typescript"]
 
+  - name: "Herald"
+    slug: "herald"
+    description: "Rust MCP server for Google Ads, GA4, Search Console, and CRM data with closed-loop attribution."
+    category: "mcp-servers"
+    homepage: "https://wildernessinteractive.com/herald"
+    repo: "https://github.com/wilderness-interactive/herald"
+    language: "Rust"
+    tags: ["mcp", "advertising", "analytics", "attribution", "rust"]
+
   # ============================================================
   # Observability / Tracing
   # ============================================================
