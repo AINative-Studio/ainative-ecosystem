@@ -550,3 +550,12 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Orkas"
+    slug: "orkas"
+    description: "Desktop workspace for coordinating multiple coding agents in parallel or sequence."
+    category: "agent-frameworks"
+    repo: "https://github.com/Orkas-AI/Orkas"
+    license: "MIT"
+    language: "TypeScript"
+    tags: ["multi-agent", "orchestration", "coding-agents", "desktop-app", "mcp", "local-first"]
