@@ -550,3 +550,13 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Weixin Codex Bridge"
+    slug: "weixin-codex-bridge"
+    description: "Security-first local WeChat bridge for running Codex with isolated sessions and durable delivery."
+    category: "integrations"
+    repo: "https://github.com/leilong611-ai/weixin-codex-bridge"
+    license: "MIT"
+    language: "TypeScript"
+    open_source: true
+    tags: ["codex", "wechat", "weixin", "local-first", "security", "developer-tools"]
