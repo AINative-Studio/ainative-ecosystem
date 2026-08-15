@@ -557,7 +557,7 @@ tools:
 
   - name: "SandBase CLI"
     slug: "sandbase-cli"
-    description: "Agent-first CLI and MCP bridge for discovering and running 2,000+ AI models and APIs through one workflow."
+    description: "Agent-first CLI and MCP bridge for discovering and running 2,000+ AI models through one workflow."
     category: "integrations"
     homepage: "https://www.sandbase.ai"
     repo: "https://github.com/sandbaseai/cli"
