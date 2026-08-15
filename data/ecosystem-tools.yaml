@@ -550,3 +550,20 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  # ============================================================
+  # Integrations
+  # ============================================================
+
+  - name: "SandBase CLI"
+    slug: "sandbase-cli"
+    description: "Agent-first CLI and MCP bridge for discovering and running 2,000+ AI models and APIs through one workflow."
+    category: "integrations"
+    homepage: "https://www.sandbase.ai"
+    repo: "https://github.com/sandbaseai/cli"
+    license: "Apache-2.0"
+    language: "TypeScript"
+    open_source: true
+    tags: ["cli", "mcp", "ai-agents", "ai-models", "api", "developer-tools"]
+    install:
+      npm: "npm install -g @sandbaseai/cli"
