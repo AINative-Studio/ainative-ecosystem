@@ -269,6 +269,17 @@ tools:
   # MCP Servers
   # ============================================================
 
+  - name: "Mac Developer Bridge"
+    slug: "mac-developer-bridge"
+    description: "Local macOS MCP bridge giving ChatGPT shell, file, PTY, background-job, and read-only Codex-history access."
+    category: "mcp-servers"
+    homepage: "https://github.com/alexanderradahl/mac-developer-bridge"
+    repo: "https://github.com/alexanderradahl/mac-developer-bridge"
+    license: "MIT"
+    language: "JavaScript"
+    open_source: true
+    tags: ["mcp", "chatgpt", "macos", "codex", "terminal", "developer-tools"]
+
   - name: "MCP Filesystem Server"
     slug: "mcp-filesystem"
     description: "Official MCP server for local filesystem access. Read, write, list, and search files."
