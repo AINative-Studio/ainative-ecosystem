@@ -306,6 +306,15 @@ tools:
     ainative_product: true
     tags: ["mcp", "shadcn", "ui-components", "typescript"]
 
+  - name: "AdMapix MCP"
+    slug: "admapix-mcp"
+    description: "Search global advertising creatives by keyword, platform, country, language, and date through an MCP server."
+    category: "mcp-servers"
+    homepage: "https://www.admapix.com"
+    repo: "https://github.com/fly0pants/admapix"
+    language: "Python"
+    tags: ["mcp", "advertising", "ad-intelligence", "competitor-research"]
+
   # ============================================================
   # Observability / Tracing
   # ============================================================
