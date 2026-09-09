@@ -550,3 +550,11 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "ModelRush"
+    slug: "modelrush"
+    description: "Prepaid text, image, video and voice APIs with a browser Playground and age-restricted catalog."
+    category: "inference"
+    homepage: "https://modelrush.ai/"
+    open_source: false
+    tags: ["api", "multimodal", "inference", "paid"]
