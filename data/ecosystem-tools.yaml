@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Codex Quota Overlay"
+    slug: "codex-quota-overlay"
+    description: "Privacy-friendly Windows overlay and local quota dashboard for Codex Desktop limits and reset timing."
+    category: "observability"
+    homepage: "https://cpys.github.io/codex-quota-overlay/"
+    repo: "https://github.com/cpys/codex-quota-overlay"
+    license: "MIT"
+    language: "JavaScript"
+    open_source: true
+    tags: ["codex", "quota", "desktop", "windows", "observability", "privacy"]
