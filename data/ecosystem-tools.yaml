@@ -550,3 +550,15 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  # ============================================================
+  # Multimodal APIs
+  # ============================================================
+
+  - name: "Magic Hour"
+    slug: "magic-hour"
+    description: "API platform for generating and editing video, images, and audio with AI models."
+    category: "multimodal"
+    homepage: "https://magichour.ai"
+    documentation: "https://docs.magichour.ai/introduction"
+    tags: ["video-generation", "image-generation", "audio", "api", "multimodal"]
