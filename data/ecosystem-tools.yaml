@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Zeroshot"
+    slug: "zeroshot"
+    description: "Runs coding agents through configurable implementation, independent review, and bounded repair graphs."
+    category: "agent-frameworks"
+    homepage: "https://zeroshot.sh"
+    repo: "https://github.com/the-open-engine/zeroshot"
+    license: "MIT"
+    language: "Rust"
+    open_source: true
+    tags: ["agent-orchestration", "code-review", "claude-code", "codex", "cli", "rust"]
