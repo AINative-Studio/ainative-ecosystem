@@ -212,6 +212,16 @@ tools:
     language: "Python"
     tags: ["agents", "orchestration", "openai", "experimental", "python"]
 
+  - name: "Agent Barn"
+    slug: "agent-barn"
+    description: "Open-source (Apache-2.0) control plane for AI agents. Chat with agents in Slack, Teams, Telegram, Discord or email; agents work across Jira, GitHub, Confluence and more. Every conversation, tool call, log and cost is recorded. Runs agent runtimes like Hermes and OpenClaw on your own Kubernetes cluster, deployed with Helm."
+    category: "agent-frameworks"
+    homepage: "https://agentbarn.dev"
+    repo: "https://github.com/aai-labs/agent-barn"
+    license: "Apache-2.0"
+    language: "TypeScript"
+    tags: ["agents", "control-plane", "orchestration", "kubernetes", "self-hosted", "slack"]
+
   # ============================================================
   # Vector Databases
   # ============================================================
