@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Agent Payment Node"
+    slug: "agent-payment-node"
+    description: "Local stdio MCP payment runtime for AI agents, with foreground owner approval for signing."
+    category: "mcp-servers"
+    homepage: "https://github.com/nuanu-ai/agent-payment-node"
+    repo: "https://github.com/nuanu-ai/agent-payment-node"
+    license: "MIT"
+    language: "TypeScript"
+    open_source: true
+    tags: ["mcp", "cli", "payments", "x402", "macos"]
