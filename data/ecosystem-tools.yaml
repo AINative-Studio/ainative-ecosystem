@@ -550,3 +550,14 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "AgentFEM MCP"
+    slug: "agentfem-mcp"
+    description: "Local MCP tools to create, validate, run, and inspect finite-element projects; requires the AgentFEM runtime."
+    category: "mcp-servers"
+    homepage: "https://github.com/haoming-luo/agentfem-mcp#readme"
+    repo: "https://github.com/haoming-luo/agentfem-mcp"
+    license: "Apache-2.0"
+    language: "Python"
+    open_source: true
+    tags: ["mcp", "finite-element", "simulation", "scientific-computing", "python"]
