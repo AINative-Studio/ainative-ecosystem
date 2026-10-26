@@ -550,3 +550,12 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+  - name: "AEGIS"
+    slug: "aegis-desktop"
+    description: "Windows-first desktop monitoring for local AI-agent processes, file activity and TCP endpoints."
+    category: "observability"
+    homepage: "https://antropos17.github.io/aegis-media/"
+    repo: "https://github.com/antropos17/Aegis"
+    license: "MIT"
+    open_source: true
+    tags: ["agent-monitoring", "windows", "local-first", "security", "beta"]
