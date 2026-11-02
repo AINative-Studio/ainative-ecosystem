@@ -550,3 +550,11 @@ tools:
     license: "MIT"
     language: "Python"
     tags: ["evaluation", "benchmarking", "adversarial", "microsoft", "python"]
+
+  - name: "Quady3D MCP"
+    slug: "quady3d-mcp"
+    description: "MCP server and SDK for generating 3D assets, quoting credits, recovering tasks, and saving model files."
+    category: "mcp-servers"
+    homepage: "https://quady3d.com/image-to-3d"
+    language: "TypeScript"
+    tags: ["mcp", "3d-generation", "image-to-3d", "game-assets", "blender", "typescript"]
