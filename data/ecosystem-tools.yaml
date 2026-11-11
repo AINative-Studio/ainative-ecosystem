@@ -310,6 +310,16 @@ tools:
   # Observability / Tracing
   # ============================================================
 
+  - name: "HOL Guard"
+    slug: "hol-guard"
+    description: "Runtime policy checks and audit records for supported AI agent tool actions."
+    category: "observability"
+    homepage: "https://hol.org/guard"
+    repo: "https://github.com/hashgraph-online/hol-guard"
+    license: "Apache-2.0"
+    open_source: true
+    tags: ["agent-security", "runtime-policy", "mcp", "audit", "open-source"]
+
   - name: "LangSmith"
     slug: "langsmith"
     description: "Developer platform for LLM application observability. Trace, debug, test, and monitor LLM applications."
